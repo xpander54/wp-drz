@@ -1,0 +1,2 @@
+<?php
+ if (!defined('ABSPATH')) { exit; } function drone_shortcodes_locale() { $domain = \Drone\Theme::getInstance()->domain; return array( 'title' => __('Shortcodes', $domain) ); } $strings = sprintf( "tinyMCE.addI18n('%s.droneshortcodes', %s);\n", _WP_Editors::$mce_locale, json_encode(drone_shortcodes_locale()) );

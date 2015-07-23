@@ -1,0 +1,2970 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Everything\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-20 21:03+0100\n"
+"PO-Revision-Date: 2014-12-20 21:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:2c,1;_ex:2c,1;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../woocommerce\n"
+"X-Poedit-SearchPathExcluded-1: ../woocommerce-brands\n"
+
+#: ../comment.php:19
+msgid "reply"
+msgstr ""
+
+#: ../comment.php:22
+msgid "edit"
+msgstr ""
+
+#: ../comment.php:29 ../drone/theme.php:2659 ../drone/theme.php:2662
+#: ../drone/widgets.php:713
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../comment.php:30 ../functions.php:2688
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../comment.php:38
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../drone/odd/shortcode-options.php:30
+msgid "Insert/edit shortcode"
+msgstr ""
+
+#: ../drone/odd/shortcode-options.php:31
+msgid "This shortcode doesn't have any options"
+msgstr ""
+
+#: ../drone/odd/shortcodes.php:26
+msgid "Shortcodes"
+msgstr ""
+
+#: ../drone/options.php:1313
+msgid "System"
+msgstr ""
+
+#: ../drone/options.php:1317
+msgid "Purchase code"
+msgstr ""
+
+#: ../drone/options.php:1317
+#, php-format
+msgid ""
+"<a href=\"%s\">Purchase code</a> is required for theme update notifications "
+"and seamless updates."
+msgstr ""
+
+#: ../drone/options.php:1330
+msgid "Debug mode"
+msgstr ""
+
+#: ../drone/options.php:2516 ../drone/options.php:2772
+#: ../drone/options.php:3028 ../drone/options.php:3822
+#: ../inc/options-setup.php:245 ../inc/options-setup.php:789
+#: ../inc/shortcodes.php:135 ../inc/shortcodes.php:497
+#: ../inc/shortcodes.php:949 ../inc/shortcodes.php:1913 ../inc/widgets.php:191
+msgid "Default"
+msgstr ""
+
+#: ../drone/options.php:2961 ../drone/options.php:2966
+#: ../inc/shortcodes.php:129 ../inc/shortcodes.php:140
+#: ../inc/shortcodes.php:448 ../inc/shortcodes.php:579
+#: ../inc/shortcodes.php:828 ../inc/shortcodes.php:897
+#: ../inc/shortcodes.php:955 ../inc/shortcodes.php:956
+#: ../inc/shortcodes.php:997 ../inc/shortcodes.php:1115
+#: ../inc/shortcodes.php:1156 ../inc/shortcodes.php:1195
+#: ../inc/shortcodes.php:1630 ../inc/shortcodes.php:1631
+#: ../inc/shortcodes.php:1632 ../inc/shortcodes.php:1896
+#: ../inc/shortcodes.php:1897 ../inc/shortcodes.php:2088
+msgid "Yes"
+msgstr ""
+
+#: ../drone/options.php:2961 ../inc/shortcodes.php:130
+#: ../inc/shortcodes.php:141
+msgid "No"
+msgstr ""
+
+#: ../drone/options.php:3203
+msgid "Select image"
+msgstr ""
+
+#: ../drone/options.php:3206 ../drone/options.php:3276
+msgid "Select"
+msgstr ""
+
+#: ../drone/options.php:3207 ../drone/options.php:3277
+msgid "Clear"
+msgstr ""
+
+#: ../drone/options.php:3271
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: ../drone/options.php:3271
+msgid "file"
+msgstr ""
+
+#: ../drone/options.php:3951 ../drone/options.php:3960
+#: ../drone/options.php:4103 ../drone/options.php:4122
+msgid "Delete"
+msgstr ""
+
+#: ../drone/options.php:3966
+msgid "Add new"
+msgstr ""
+
+#: ../drone/options.php:4068
+msgid "Inactive"
+msgstr ""
+
+#: ../drone/options.php:4073
+msgid "Select condition..."
+msgstr ""
+
+#: ../drone/options.php:4104 ../drone/options.php:4123
+#, php-format
+msgid "On %s"
+msgstr ""
+
+#: ../drone/options.php:4116
+msgid "Customize on..."
+msgstr ""
+
+#: ../drone/options.php:4241
+msgid "Front page"
+msgstr ""
+
+#: ../drone/options.php:4242 ../drone/options.php:4246
+#: ../drone/options.php:4250 ../drone/options.php:4254
+#: ../drone/options.php:4262 ../drone/options.php:4266
+#: ../drone/options.php:4270 ../drone/options.php:4278
+#: ../drone/options.php:4282 ../drone/options.php:4286
+#: ../drone/options.php:4290 ../drone/options.php:4294
+#: ../drone/options.php:4298 ../inc/options-setup.php:17
+msgid "General"
+msgstr ""
+
+#: ../drone/options.php:4245
+msgid "Blog / archive"
+msgstr ""
+
+#: ../drone/options.php:4249
+msgid "Search"
+msgstr ""
+
+#: ../drone/options.php:4253
+msgid "Not found page (404)"
+msgstr ""
+
+#: ../drone/options.php:4261
+msgid "Forum"
+msgstr ""
+
+#: ../drone/options.php:4265
+msgid "Topic"
+msgstr ""
+
+#: ../drone/options.php:4269
+msgid "bbPress page"
+msgstr ""
+
+#: ../drone/options.php:4277 ../inc/options-setup.php:779
+msgid "Shop"
+msgstr ""
+
+#: ../drone/options.php:4281 ../functions.php:2755
+msgid "Cart"
+msgstr ""
+
+#: ../drone/options.php:4285
+msgid "Checkout"
+msgstr ""
+
+#: ../drone/options.php:4289
+msgid "Order received page"
+msgstr ""
+
+#: ../drone/options.php:4293
+msgid "My account page"
+msgstr ""
+
+#: ../drone/options.php:4297
+msgid "WooCommerce page"
+msgstr ""
+
+#: ../drone/options.php:4311
+msgid "Page types"
+msgstr ""
+
+#: ../drone/options.php:4321
+msgid "Template"
+msgstr ""
+
+#: ../drone/options.php:4889
+msgid "sec."
+msgstr ""
+
+#: ../drone/options.php:4890
+msgid "min."
+msgstr ""
+
+#: ../drone/options.php:4891
+msgid "hour(s)"
+msgstr ""
+
+#: ../drone/options.php:4892
+msgid "day(s)"
+msgstr ""
+
+#: ../drone/options.php:4893
+msgid "week(s)"
+msgstr ""
+
+#: ../drone/options.php:5074
+msgid "No repeat"
+msgstr ""
+
+#: ../drone/options.php:5075
+msgid "Repeat"
+msgstr ""
+
+#: ../drone/options.php:5076
+msgid "Repeat horizontally"
+msgstr ""
+
+#: ../drone/options.php:5077
+msgid "Repeat vertically"
+msgstr ""
+
+#: ../drone/options.php:5078
+msgid "Fit (cover)"
+msgstr ""
+
+#: ../drone/options.php:5079
+msgid "Fit (contain) "
+msgstr ""
+
+#: ../drone/options.php:5085
+msgid "Left top"
+msgstr ""
+
+#: ../drone/options.php:5086
+msgid "Left center"
+msgstr ""
+
+#: ../drone/options.php:5087
+msgid "Left bottom"
+msgstr ""
+
+#: ../drone/options.php:5088
+msgid "Center top"
+msgstr ""
+
+#: ../drone/options.php:5089 ../drone/shortcodes.php:654
+msgid "Center"
+msgstr ""
+
+#: ../drone/options.php:5090
+msgid "Center bottom"
+msgstr ""
+
+#: ../drone/options.php:5091
+msgid "Right top"
+msgstr ""
+
+#: ../drone/options.php:5092
+msgid "Right center"
+msgstr ""
+
+#: ../drone/options.php:5093
+msgid "Right bottom"
+msgstr ""
+
+#: ../drone/options.php:5099 ../inc/options-setup.php:37
+msgid "Scroll"
+msgstr ""
+
+#: ../drone/options.php:5100
+msgid "Fixed"
+msgstr ""
+
+#: ../drone/options.php:5422
+msgid "Classic web fonts"
+msgstr ""
+
+#: ../drone/options.php:5425 ../inc/options-setup.php:868
+msgid "Google Fonts"
+msgstr ""
+
+#: ../drone/options.php:5428
+msgid "Custom font-face"
+msgstr ""
+
+#: ../drone/options.php:5434 ../inc/options-setup.php:830
+msgid "default"
+msgstr ""
+
+#: ../drone/options.php:5487
+msgid "Bold"
+msgstr ""
+
+#: ../drone/options.php:5488
+msgid "Italic"
+msgstr ""
+
+#: ../drone/options.php:5489
+msgid "Underline"
+msgstr ""
+
+#: ../drone/shortcodes.php:470 ../inc/options-setup.php:70
+#: ../inc/options-setup.php:133 ../inc/options-setup.php:298
+#: ../inc/options-setup.php:326 ../inc/options-setup.php:731
+#: ../inc/options-setup.php:852 ../inc/options.php:481 ../inc/widgets.php:175
+msgid "Content"
+msgstr ""
+
+#: ../drone/shortcodes.php:653 ../inc/options-setup.php:204
+#: ../inc/options-setup.php:505 ../inc/shortcodes.php:900
+msgid "Left"
+msgstr ""
+
+#: ../drone/shortcodes.php:655 ../inc/options-setup.php:210
+#: ../inc/options-setup.php:506 ../inc/shortcodes.php:901
+msgid "Right"
+msgstr ""
+
+#: ../drone/shortcodes.php:656 ../inc/options-setup.php:262
+#: ../inc/options-setup.php:552 ../inc/options-setup.php:564
+#: ../inc/options-setup.php:576 ../inc/options-setup.php:588
+#: ../inc/options-setup.php:600 ../inc/options-setup.php:616
+#: ../inc/options-setup.php:628 ../inc/options-setup.php:640
+#: ../inc/options-setup.php:652 ../inc/options-setup.php:664
+#: ../inc/options-setup.php:788 ../inc/options-setup.php:802
+#: ../inc/options.php:202 ../inc/shortcodes.php:113 ../inc/shortcodes.php:134
+#: ../inc/shortcodes.php:899 ../inc/shortcodes.php:1634
+#: ../inc/shortcodes.php:1641 ../inc/shortcodes.php:1879
+#: ../inc/shortcodes.php:1899 ../inc/shortcodes.php:1906
+#: ../inc/shortcodes.php:1912 ../inc/shortcodes.php:2096
+#: ../inc/widgets.php:157 ../inc/widgets.php:190
+msgid "None"
+msgstr ""
+
+#: ../drone/shortcodes.php:816 ../inc/options-setup.php:508
+#: ../inc/shortcodes.php:681 ../inc/shortcodes.php:821
+#: ../inc/shortcodes.php:1351
+msgid "Size"
+msgstr ""
+
+#: ../drone/shortcodes.php:817 ../inc/shortcodes.php:1630
+msgid "Thumbnail"
+msgstr ""
+
+#: ../drone/shortcodes.php:818
+msgid "Medium"
+msgstr ""
+
+#: ../drone/shortcodes.php:819
+msgid "Large"
+msgstr ""
+
+#: ../drone/shortcodes.php:820
+msgid "Full Size"
+msgstr ""
+
+#: ../drone/shortcodes.php:895 ../drone/shortcodes.php:942
+#: ../drone/widgets.php:455 ../drone/widgets.php:488
+#: ../inc/options-setup.php:917 ../inc/options.php:208
+msgid "Page"
+msgstr ""
+
+#: ../drone/shortcodes.php:969 ../inc/shortcodes.php:581
+#: ../inc/shortcodes.php:632 ../inc/shortcodes.php:1284
+#: ../inc/shortcodes.php:1557
+msgid "HTML tag"
+msgstr ""
+
+#: ../drone/shortcodes.php:970 ../inc/shortcodes.php:633
+#: ../inc/shortcodes.php:683 ../inc/shortcodes.php:745
+#: ../inc/shortcodes.php:835
+msgid "CSS class"
+msgstr ""
+
+#: ../drone/shortcodes.php:1010
+msgid "No format"
+msgstr ""
+
+#: ../drone/theme.php:543
+#, php-format
+msgid "%s theme options settings"
+msgstr ""
+
+#: ../drone/theme.php:793
+msgid "Theme Options"
+msgstr ""
+
+#: ../drone/theme.php:798 ../drone/theme.php:812
+#, php-format
+msgid "%s options"
+msgstr ""
+
+#: ../drone/theme.php:860
+msgid "Theme Options imported successfully."
+msgstr ""
+
+#: ../drone/theme.php:863
+msgid "No file was selected for import."
+msgstr ""
+
+#: ../drone/theme.php:866
+msgid "Mismatched version number of the theme."
+msgstr ""
+
+#: ../drone/theme.php:869
+msgid "File could not be imported."
+msgstr ""
+
+#: ../drone/theme.php:894
+msgid ""
+"Your theme comes from unauthorized source and might include viruses or "
+"malicious code."
+msgstr ""
+
+#: ../drone/theme.php:896
+#, php-format
+msgid ""
+"Use official theme version which you can <a href=\"%s\">purchase on "
+"ThemeForest.net</a> only."
+msgstr ""
+
+#: ../drone/theme.php:986
+#, php-format
+msgid ""
+"To enable this update please paste your <a href=\"%1$s\">purchase code</a> "
+"in <a href=\"%2$s\">Theme Options / System</a>."
+msgstr ""
+
+#: ../drone/theme.php:1404
+msgid "Please enter your name."
+msgstr ""
+
+#: ../drone/theme.php:1409
+msgid "Invalid email address."
+msgstr ""
+
+#: ../drone/theme.php:1414
+msgid "Invalid website address."
+msgstr ""
+
+#: ../drone/theme.php:1419
+msgid "Invalid phone number."
+msgstr ""
+
+#: ../drone/theme.php:1424
+msgid "Please write your message."
+msgstr ""
+
+#: ../drone/theme.php:1429
+msgid "Please complete the captcha."
+msgstr ""
+
+#: ../drone/theme.php:1497
+msgid "Your message is recognized as spam."
+msgstr ""
+
+#: ../drone/theme.php:1509
+msgid "Message sent."
+msgstr ""
+
+#: ../drone/theme.php:1511
+msgid "Error occured. Message couldn't be sent."
+msgstr ""
+
+#: ../drone/theme.php:2145
+msgid "Favicon image"
+msgstr ""
+
+#: ../drone/theme.php:2145
+#, php-format
+msgid "Paste favicon's URL or select/upload an image (%s)."
+msgstr ""
+
+#: ../drone/theme.php:2145
+msgid "Select icon"
+msgstr ""
+
+#: ../drone/theme.php:2175
+msgid "Alternative feed URL"
+msgstr ""
+
+#: ../drone/theme.php:2175
+msgid "E.g. FeedBurner."
+msgstr ""
+
+#: ../drone/theme.php:2194
+msgid "Tracking code"
+msgstr ""
+
+#: ../drone/theme.php:2194
+msgid "E.g. Google Analitycs."
+msgstr ""
+
+#: ../drone/theme.php:2213
+msgid "Open Graph Protocol"
+msgstr ""
+
+#: ../drone/theme.php:2214 ../inc/options-setup.php:26
+#: ../inc/options-setup.php:28
+msgid "Enabled"
+msgstr ""
+
+#: ../drone/theme.php:2215
+msgid "Default image"
+msgstr ""
+
+#: ../drone/theme.php:2233
+msgid "Custom CSS code"
+msgstr ""
+
+#: ../drone/theme.php:2259
+msgid "Custom JavaScript code"
+msgstr ""
+
+#: ../drone/theme.php:2295 ../inc/shortcodes.php:1531 ../inc/widgets.php:343
+msgid "Contact form"
+msgstr ""
+
+#: ../drone/theme.php:2297
+msgid "blog name"
+msgstr ""
+
+#: ../drone/theme.php:2298
+msgid "blog url"
+msgstr ""
+
+#: ../drone/theme.php:2299
+msgid "name field"
+msgstr ""
+
+#: ../drone/theme.php:2300
+msgid "e-mail field"
+msgstr ""
+
+#: ../drone/theme.php:2301
+msgid "website field"
+msgstr ""
+
+#: ../drone/theme.php:2302
+msgid "phone number field"
+msgstr ""
+
+#: ../drone/theme.php:2303
+msgid "subject field"
+msgstr ""
+
+#: ../drone/theme.php:2304
+msgid "Available form fields"
+msgstr ""
+
+#: ../drone/theme.php:2304
+msgid "required fields (if present)."
+msgstr ""
+
+#: ../drone/theme.php:2305 ../drone/theme.php:2842 ../drone/tpl/sysinfo.php:20
+#: ../drone/tpl/sysinfo.php:76 ../drone/tpl/sysinfo.php:104
+#: ../functions.php:1374 ../inc/shortcodes.php:621
+msgid "Name"
+msgstr ""
+
+#: ../drone/theme.php:2306 ../drone/theme.php:2843 ../functions.php:1375
+msgid "E-mail"
+msgstr ""
+
+#: ../drone/theme.php:2307 ../drone/theme.php:2844 ../functions.php:1376
+msgid "Website"
+msgstr ""
+
+#: ../drone/theme.php:2308 ../drone/theme.php:2845
+msgid "Phone number"
+msgstr ""
+
+#: ../drone/theme.php:2309 ../drone/theme.php:2846
+msgid "Subject"
+msgstr ""
+
+#: ../drone/theme.php:2310 ../drone/theme.php:2847 ../functions.php:1378
+msgid "Message"
+msgstr ""
+
+#: ../drone/theme.php:2311 ../drone/theme.php:2848
+msgid "Captcha"
+msgstr ""
+
+#: ../drone/theme.php:2313
+msgid "E-mail subject"
+msgstr ""
+
+#: ../drone/theme.php:2314 ../drone/theme.php:2317
+msgid "Recipient e-mail address"
+msgstr ""
+
+#: ../drone/theme.php:2315
+msgid "Sender e-mail address"
+msgstr ""
+
+#: ../drone/theme.php:2315
+msgid ""
+"Some servers allow only for sending emails from their own domain, so in that "
+"case make sure it's the proper email."
+msgstr ""
+
+#: ../drone/theme.php:2316
+msgid "WordPress settings e-mail"
+msgstr ""
+
+#: ../drone/theme.php:2318
+msgid "E-mail form field"
+msgstr ""
+
+#: ../drone/theme.php:2327
+msgid "Advanced settings"
+msgstr ""
+
+#: ../drone/theme.php:2328
+#, php-format
+msgid "Protect from spam with %s"
+msgstr ""
+
+#: ../drone/theme.php:2329
+#, php-format
+msgid "Override %s header with Name field"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:11
+msgid "Informations"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:21 ../drone/tpl/sysinfo.php:77
+#: ../drone/tpl/sysinfo.php:105
+msgid "Value"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:27
+msgid "PHP version"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:30
+msgid ""
+"You have outdated PHP version on your server. For better performance and "
+"reliability make an update (or ask your hosting provider for that)."
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:34
+msgid "MySQL version"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:45
+msgid "WordPress version"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:50 ../drone/tpl/sysinfo.php:60
+msgid "Theme version"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:50
+msgid "Parent theme version"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:53
+msgid ""
+"Theme name/version information is corrupted. Probably one of theme files is "
+"damaged or modified. If you want to modify theme files, use child theme for "
+"that purpose."
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:55
+#, php-format
+msgid ""
+"New version (%1$s) of %2$s theme is available. <a href=\"%3$s\">Update now</"
+"a>."
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:68
+msgid "Configuration"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:82
+msgid "PHP max. execution time"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:86
+msgid "PHP memory limit"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:90
+msgid "WordPress memory limit"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:96
+msgid "Paths"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:110
+msgid "Home URL"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:114
+msgid "Site URL"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:118
+msgid "Template URL"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:122
+msgid "Stylesheet URL"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:126
+msgid "Template directory"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:130
+msgid "Stylesheet directory"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:136
+msgid "Settings"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:138
+msgid "Export Theme Options settings to file."
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:139
+msgid "Export settings"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:143
+msgid "Choose a file from your computer"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:146
+msgid "Import settings"
+msgstr ""
+
+#: ../drone/tpl/sysinfo.php:149
+msgid "Options"
+msgstr ""
+
+#: ../drone/tpl/theme-options.php:22
+msgid "Save Changes"
+msgstr ""
+
+#: ../drone/widgets.php:395 ../drone/widgets.php:454 ../drone/widgets.php:523
+#: ../drone/widgets.php:528 ../drone/widgets.php:650 ../drone/widgets.php:786
+#: ../inc/options-setup.php:361 ../inc/options-setup.php:389
+#: ../inc/options-setup.php:512 ../inc/options-setup.php:672
+#: ../inc/options-setup.php:689 ../inc/options-setup.php:708
+#: ../inc/options-setup.php:730 ../inc/options-setup.php:745
+#: ../inc/options-setup.php:918 ../inc/shortcodes.php:568
+#: ../inc/shortcodes.php:1114 ../inc/shortcodes.php:1194
+#: ../inc/shortcodes.php:1612 ../inc/shortcodes.php:1632
+#: ../inc/shortcodes.php:1884 ../inc/shortcodes.php:1897
+#: ../inc/shortcodes.php:2075 ../inc/widgets.php:30 ../inc/widgets.php:97
+#: ../inc/widgets.php:145 ../inc/widgets.php:162 ../inc/widgets.php:323
+msgid "Title"
+msgstr ""
+
+#: ../drone/widgets.php:396 ../inc/shortcodes.php:447
+msgid "Text"
+msgstr ""
+
+#: ../drone/widgets.php:399
+msgid "Allow shortcodes"
+msgstr ""
+
+#: ../drone/widgets.php:429
+msgid "Unwrapped text"
+msgstr ""
+
+#: ../drone/widgets.php:429
+msgid "For pure HTML code."
+msgstr ""
+
+#: ../drone/widgets.php:488
+msgid "Displays content of a specified page."
+msgstr ""
+
+#: ../drone/widgets.php:524 ../inc/options-setup.php:231
+#: ../inc/shortcodes.php:1606 ../inc/shortcodes.php:1880
+#: ../inc/shortcodes.php:1907 ../inc/shortcodes.php:2069
+#: ../inc/shortcodes.php:2097 ../inc/widgets.php:158
+msgid "Category"
+msgstr ""
+
+#: ../drone/widgets.php:525
+msgid "All"
+msgstr ""
+
+#: ../drone/widgets.php:527 ../inc/shortcodes.php:1611
+#: ../inc/shortcodes.php:1883 ../inc/shortcodes.php:2074
+#: ../inc/widgets.php:161
+msgid "Sort by"
+msgstr ""
+
+#: ../drone/widgets.php:529 ../functions.php:103 ../functions.php:129
+#: ../inc/options-setup.php:261 ../inc/shortcodes.php:1613
+#: ../inc/shortcodes.php:1631 ../inc/shortcodes.php:1885
+#: ../inc/shortcodes.php:2076 ../inc/widgets.php:163
+msgid "Date"
+msgstr ""
+
+#: ../drone/widgets.php:530 ../inc/shortcodes.php:1614
+#: ../inc/shortcodes.php:1886 ../inc/shortcodes.php:2077
+#: ../inc/widgets.php:164
+msgid "Modified date"
+msgstr ""
+
+#: ../drone/widgets.php:531 ../inc/shortcodes.php:1615
+#: ../inc/shortcodes.php:1887 ../inc/shortcodes.php:2078
+#: ../inc/widgets.php:165
+msgid "Comment count"
+msgstr ""
+
+#: ../drone/widgets.php:532 ../inc/shortcodes.php:1616
+#: ../inc/shortcodes.php:1888 ../inc/shortcodes.php:2079
+#: ../inc/widgets.php:166
+msgid "Random order"
+msgstr ""
+
+#: ../drone/widgets.php:534 ../inc/shortcodes.php:1619
+#: ../inc/shortcodes.php:1891 ../inc/shortcodes.php:2082
+#: ../inc/widgets.php:169
+msgid "Sort order"
+msgstr ""
+
+#: ../drone/widgets.php:535 ../inc/shortcodes.php:1620
+#: ../inc/shortcodes.php:1892 ../inc/shortcodes.php:2083
+#: ../inc/widgets.php:170
+msgid "Ascending"
+msgstr ""
+
+#: ../drone/widgets.php:536 ../inc/shortcodes.php:1621
+#: ../inc/shortcodes.php:1893 ../inc/shortcodes.php:2084
+#: ../inc/widgets.php:171
+msgid "Descending"
+msgstr ""
+
+#: ../drone/widgets.php:538
+msgid "Posts count"
+msgstr ""
+
+#: ../drone/widgets.php:539
+msgid "Post title words limit"
+msgstr ""
+
+#: ../drone/widgets.php:540
+msgid "Show post author"
+msgstr ""
+
+#: ../drone/widgets.php:541
+msgid "Show comments count"
+msgstr ""
+
+#: ../drone/widgets.php:580
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../drone/widgets.php:606
+msgid "Posts list"
+msgstr ""
+
+#: ../drone/widgets.php:606
+msgid ""
+"Displays list of posts by specific criteria (e.g.: newest posts, most "
+"commented, random posts, etc.)."
+msgstr ""
+
+#: ../drone/widgets.php:651 ../drone/widgets.php:787
+msgid "Username"
+msgstr ""
+
+#: ../drone/widgets.php:658
+msgid "Tweets count"
+msgstr ""
+
+#: ../drone/widgets.php:659 ../drone/widgets.php:789
+msgid "Update interval"
+msgstr ""
+
+#: ../drone/widgets.php:659
+msgid "Tweets receiving interval."
+msgstr ""
+
+#: ../drone/widgets.php:660
+msgid "Include retweets"
+msgstr ""
+
+#: ../drone/widgets.php:661
+msgid "Exclude replies"
+msgstr ""
+
+#: ../drone/widgets.php:663
+msgid "API key"
+msgstr ""
+
+#: ../drone/widgets.php:664
+msgid "API secret"
+msgstr ""
+
+#: ../drone/widgets.php:665
+msgid "Access token"
+msgstr ""
+
+#: ../drone/widgets.php:666
+msgid "Access token secret"
+msgstr ""
+
+#: ../drone/widgets.php:736 ../functions.php:157 ../inc/shortcodes.php:1357
+#: ../inc/widgets.php:101
+msgid "Twitter"
+msgstr ""
+
+#: ../drone/widgets.php:736
+msgid "Twitter stream."
+msgstr ""
+
+#: ../drone/widgets.php:787
+msgid "Screen name from Flickr account settings."
+msgstr ""
+
+#: ../drone/widgets.php:788
+msgid "Photos count"
+msgstr ""
+
+#: ../drone/widgets.php:789
+msgid "Photos receiving interval."
+msgstr ""
+
+#: ../drone/widgets.php:791
+msgid "Open Flickr page with the photo"
+msgstr ""
+
+#: ../drone/widgets.php:792
+msgid "Open bigger version of the photo"
+msgstr ""
+
+#: ../drone/widgets.php:794
+msgid "API Key"
+msgstr ""
+
+#: ../drone/widgets.php:794
+msgid "Optional (use only if you want to use your key)."
+msgstr ""
+
+#: ../drone/widgets.php:862
+msgid "Flickr"
+msgstr ""
+
+#: ../drone/widgets.php:862
+msgid "Flickr photo stream."
+msgstr ""
+
+#: ../drone/widgets.php:901
+msgid "Facebook page URL"
+msgstr ""
+
+#: ../drone/widgets.php:901
+#, php-format
+msgid "E.g. %s"
+msgstr ""
+
+#: ../drone/widgets.php:902
+msgid "Height"
+msgstr ""
+
+#: ../drone/widgets.php:903
+msgid "Show header"
+msgstr ""
+
+#: ../drone/widgets.php:904
+msgid "Show stream"
+msgstr ""
+
+#: ../drone/widgets.php:905
+msgid "Show faces"
+msgstr ""
+
+#: ../drone/widgets.php:906
+msgid "Show border"
+msgstr ""
+
+#: ../drone/widgets.php:943
+msgid "Facebook Like Box"
+msgstr ""
+
+#: ../drone/widgets.php:943
+msgid "Configurable Facebook widget."
+msgstr ""
+
+#: ../functions.php:100 ../functions.php:126 ../functions.php:154
+#: ../inc/options-setup.php:91 ../inc/options-setup.php:141
+#: ../inc/options-setup.php:142 ../inc/options-setup.php:809
+msgid "Visible"
+msgstr ""
+
+#: ../functions.php:102 ../functions.php:128
+msgid "Date &amp time"
+msgstr ""
+
+#: ../functions.php:104 ../functions.php:130
+msgid "Modification date"
+msgstr ""
+
+#: ../functions.php:105 ../functions.php:131
+msgid "Relative time"
+msgstr ""
+
+#: ../functions.php:106 ../functions.php:132
+msgid "Comments number"
+msgstr ""
+
+#: ../functions.php:107 ../functions.php:135 ../inc/shortcodes.php:896
+#: ../inc/shortcodes.php:1282
+msgid "Author"
+msgstr ""
+
+#: ../functions.php:108 ../functions.php:136 ../functions.php:2725
+msgid "Permalink"
+msgstr ""
+
+#: ../functions.php:133 ../functions.php:475 ../inc/options-setup.php:741
+#: ../inc/options-setup.php:812 ../inc/widgets.php:185
+msgid "Categories"
+msgstr ""
+
+#: ../functions.php:134 ../functions.php:480 ../inc/options-setup.php:742
+#: ../inc/options-setup.php:813 ../inc/widgets.php:186
+msgid "Tags"
+msgstr ""
+
+#: ../functions.php:156 ../inc/shortcodes.php:1356 ../inc/widgets.php:100
+msgid "Facebook"
+msgstr ""
+
+#: ../functions.php:158 ../inc/shortcodes.php:1358 ../inc/widgets.php:102
+msgid "Google+"
+msgstr ""
+
+#: ../functions.php:159 ../inc/shortcodes.php:1359 ../inc/widgets.php:103
+msgid "LinkedIn"
+msgstr ""
+
+#: ../functions.php:160 ../inc/shortcodes.php:1360 ../inc/widgets.php:104
+msgid "Pinterest"
+msgstr ""
+
+#: ../functions.php:307
+msgid "Main menu (desktop)"
+msgstr ""
+
+#: ../functions.php:308
+msgid "Main menu (mobile)"
+msgstr ""
+
+#: ../functions.php:309
+msgid "Additional menu (mobile)"
+msgstr ""
+
+#: ../functions.php:310
+msgid "Top bar menu (desktop)"
+msgstr ""
+
+#: ../functions.php:311
+msgid "Top bar menu (mobile)"
+msgstr ""
+
+#: ../functions.php:312 ../inc/options-setup.php:141
+msgid "Upper secondary menu"
+msgstr ""
+
+#: ../functions.php:313 ../inc/options-setup.php:142
+msgid "Lower secondary menu"
+msgstr ""
+
+#: ../functions.php:426 ../functions.php:427 ../functions.php:433
+#: ../functions.php:444 ../inc/options-setup.php:704
+msgid "Galleries"
+msgstr ""
+
+#: ../functions.php:434 ../inc/shortcodes.php:1626
+msgid "Gallery"
+msgstr ""
+
+#: ../functions.php:435
+msgctxt "Gallery"
+msgid "Add New"
+msgstr ""
+
+#: ../functions.php:436
+msgid "All Galleries"
+msgstr ""
+
+#: ../functions.php:437
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../functions.php:438
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../functions.php:439
+msgid "New Gallery"
+msgstr ""
+
+#: ../functions.php:440
+msgid "View Gallery"
+msgstr ""
+
+#: ../functions.php:441
+msgid "Search Galleries"
+msgstr ""
+
+#: ../functions.php:442
+msgid "No Galleries found"
+msgstr ""
+
+#: ../functions.php:443
+msgid "No Galleries found in Trash"
+msgstr ""
+
+#: ../functions.php:450 ../functions.php:451 ../functions.php:460
+#: ../functions.php:471 ../inc/options-setup.php:723
+msgid "Portfolios"
+msgstr ""
+
+#: ../functions.php:461 ../inc/shortcodes.php:2048 ../inc/widgets.php:309
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions.php:462
+msgctxt "Portfolio"
+msgid "Add New"
+msgstr ""
+
+#: ../functions.php:463
+msgid "All Portfolios"
+msgstr ""
+
+#: ../functions.php:464
+msgid "Add New Portfolio"
+msgstr ""
+
+#: ../functions.php:465
+msgid "Edit Portfolio"
+msgstr ""
+
+#: ../functions.php:466
+msgid "New Portfolio"
+msgstr ""
+
+#: ../functions.php:467
+msgid "View Portfolio"
+msgstr ""
+
+#: ../functions.php:468
+msgid "Search Portfolios"
+msgstr ""
+
+#: ../functions.php:469
+msgid "No Portfolios found"
+msgstr ""
+
+#: ../functions.php:470
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: ../functions.php:531
+#, php-format
+msgid "Footer column %d"
+msgstr ""
+
+#: ../functions.php:533
+#, php-format
+msgid "(%1$s) Footer column %2$d"
+msgstr ""
+
+#: ../functions.php:742
+msgid "all"
+msgstr ""
+
+#: ../functions.php:1126 ../inc/options-setup.php:54
+#: ../inc/options-setup.php:339
+msgid "Logo"
+msgstr ""
+
+#: ../functions.php:1127
+msgid "Site width"
+msgstr ""
+
+#: ../functions.php:1220
+msgid "Search site"
+msgstr ""
+
+#: ../functions.php:1375
+msgid "not published"
+msgstr ""
+
+#: ../functions.php:1383
+msgid "Leave a comment"
+msgstr ""
+
+#: ../functions.php:1384
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: ../functions.php:1385
+msgid "Cancel reply"
+msgstr ""
+
+#: ../functions.php:1386
+msgid "Send &rsaquo;"
+msgstr ""
+
+#: ../functions.php:1901 ../functions.php:1983
+msgid "Orientation"
+msgstr ""
+
+#: ../functions.php:1902 ../functions.php:1984 ../inc/shortcodes.php:116
+msgid "Vertical"
+msgstr ""
+
+#: ../functions.php:1903 ../functions.php:1986
+msgid "Scrollable"
+msgstr ""
+
+#: ../functions.php:1905
+msgid "Show thumbnail"
+msgstr ""
+
+#: ../functions.php:1906
+msgid "Show date"
+msgstr ""
+
+#: ../functions.php:1985 ../inc/shortcodes.php:115
+msgid "Horizontal"
+msgstr ""
+
+#: ../functions.php:1988
+msgid "Add \"follow me\" button"
+msgstr ""
+
+#: ../functions.php:2020
+msgid "follow me"
+msgstr ""
+
+#: ../functions.php:2454
+msgid "Previous page"
+msgstr ""
+
+#: ../functions.php:2455
+msgid "Next page"
+msgstr ""
+
+#: ../functions.php:2687 ../functions.php:2692
+#, php-format
+msgid "View all posts from %s"
+msgstr ""
+
+#: ../header.php:92 ../header.php:119 ../inc/options-setup.php:97
+msgid "Menu"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:177
+#: ../inc/class-tgm-plugin-activation.php:1939
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:531
+#: ../inc/class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1287
+#: ../inc/class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1309
+#: ../inc/class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1376 ../inc/shortcodes.php:443
+#: ../inc/shortcodes.php:1552
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2053
+#: ../inc/class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2053
+#: ../inc/class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/options-setup.php:19
+msgid "Layout type"
+msgstr ""
+
+#: ../inc/options-setup.php:20
+msgid "Open"
+msgstr ""
+
+#: ../inc/options-setup.php:21
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/options-setup.php:24
+msgid "Maximum width"
+msgstr ""
+
+#: ../inc/options-setup.php:26
+msgid "Responsive design"
+msgstr ""
+
+#: ../inc/options-setup.php:28
+msgid "Retina display's support"
+msgstr ""
+
+#: ../inc/options-setup.php:30
+msgid "Color scheme"
+msgstr ""
+
+#: ../inc/options-setup.php:31
+msgid "Bright"
+msgstr ""
+
+#: ../inc/options-setup.php:32
+msgid "Dark"
+msgstr ""
+
+#: ../inc/options-setup.php:35
+msgid "Leading color"
+msgstr ""
+
+#: ../inc/options-setup.php:37 ../inc/options-setup.php:834
+#: ../inc/options-setup.php:889 ../inc/shortcodes.php:831
+msgid "Background"
+msgstr ""
+
+#: ../inc/options-setup.php:37
+msgid "Use custom background"
+msgstr ""
+
+#: ../inc/options-setup.php:37
+#, php-format
+msgid "For open layout type, recommended settings are %1$s and %2$s."
+msgstr ""
+
+#: ../inc/options-setup.php:37
+msgid "Fit (contain)"
+msgstr ""
+
+#: ../inc/options-setup.php:44 ../inc/options-setup.php:283
+msgid "Header"
+msgstr ""
+
+#: ../inc/options-setup.php:46 ../inc/shortcodes.php:101
+#: ../inc/shortcodes.php:1625 ../inc/shortcodes.php:2090
+msgid "Style"
+msgstr ""
+
+#: ../inc/options-setup.php:48
+msgid "Centered"
+msgstr ""
+
+#: ../inc/options-setup.php:49 ../inc/options-setup.php:109
+msgid "Sticky"
+msgstr ""
+
+#: ../inc/options-setup.php:50
+msgid "Transparent"
+msgstr ""
+
+#: ../inc/options-setup.php:52 ../inc/shortcodes.php:833
+msgid "Opacity"
+msgstr ""
+
+#: ../inc/options-setup.php:56
+msgid "Shrunken"
+msgstr ""
+
+#: ../inc/options-setup.php:58 ../inc/options-setup.php:288
+msgid "Main menu"
+msgstr ""
+
+#: ../inc/options-setup.php:59 ../inc/options-setup.php:66
+msgid "Show on"
+msgstr ""
+
+#: ../inc/options-setup.php:60 ../inc/options-setup.php:67
+msgid "Desktop devices"
+msgstr ""
+
+#: ../inc/options-setup.php:61 ../inc/options-setup.php:68
+msgid "Mobile devices"
+msgstr ""
+
+#: ../inc/options-setup.php:64 ../inc/options-setup.php:96
+#: ../inc/options-setup.php:825
+msgid "Cart icon"
+msgstr ""
+
+#: ../inc/options-setup.php:71
+msgid "Number of products"
+msgstr ""
+
+#: ../inc/options-setup.php:72
+msgid "Price of products"
+msgstr ""
+
+#: ../inc/options-setup.php:75 ../inc/options-setup.php:278
+#: ../inc/options-setup.php:333
+msgid "Top bar"
+msgstr ""
+
+#: ../inc/options-setup.php:76
+#, php-format
+msgid ""
+"The <a href=\"%s\">WooCommerce plugin</a> is required for shop features.<br /"
+">"
+msgstr ""
+
+#: ../inc/options-setup.php:77
+#, php-format
+msgid "For multi-language site, a <a href=\"%s\">WPML plugin</a> is required."
+msgstr ""
+
+#: ../inc/options-setup.php:89
+msgid "On desktop devices"
+msgstr ""
+
+#: ../inc/options-setup.php:89
+msgid "On mobile devices"
+msgstr ""
+
+#: ../inc/options-setup.php:93 ../inc/options-setup.php:113
+msgid "Tagline"
+msgstr ""
+
+#: ../inc/options-setup.php:94
+msgid "left side"
+msgstr ""
+
+#: ../inc/options-setup.php:94
+msgid "right side"
+msgstr ""
+
+#: ../inc/options-setup.php:95 ../inc/shortcodes.php:1485
+msgid "Search form"
+msgstr ""
+
+#: ../inc/options-setup.php:98
+msgid "Language menu"
+msgstr ""
+
+#: ../inc/options-setup.php:110
+msgid "Show mobile main menu button in top bar"
+msgstr ""
+
+#: ../inc/options-setup.php:114 ../inc/options-setup.php:278
+#: ../inc/options-setup.php:283 ../inc/options-setup.php:288
+#: ../inc/options-setup.php:293 ../inc/options-setup.php:298
+#: ../inc/options-setup.php:303 ../inc/options-setup.php:308
+#: ../inc/options-setup.php:319 ../inc/options-setup.php:326
+#: ../inc/options-setup.php:333 ../inc/options-setup.php:339
+#: ../inc/options-setup.php:347 ../inc/options-setup.php:353
+#: ../inc/options-setup.php:361 ../inc/options-setup.php:367
+#: ../inc/options-setup.php:375 ../inc/options-setup.php:381
+#: ../inc/options-setup.php:389 ../inc/options-setup.php:395
+#: ../inc/options-setup.php:403 ../inc/options-setup.php:409
+#: ../inc/options-setup.php:415 ../inc/options-setup.php:421
+#: ../inc/options-setup.php:427 ../inc/options-setup.php:433
+#: ../inc/options-setup.php:441 ../inc/options-setup.php:447
+#: ../inc/options-setup.php:453 ../inc/options-setup.php:459
+#: ../inc/options-setup.php:467 ../inc/options-setup.php:473
+#: ../inc/options-setup.php:479 ../inc/options-setup.php:485
+#: ../inc/options-setup.php:492 ../inc/options-setup.php:496
+#: ../inc/options-setup.php:833 ../inc/options-setup.php:839
+#: ../inc/options-setup.php:889 ../inc/options-setup.php:891
+#: ../inc/options-setup.php:894 ../inc/options-setup.php:900
+#: ../inc/options-setup.php:907 ../inc/options-setup.php:914
+#: ../inc/options-setup.php:918 ../inc/options-setup.php:922
+#: ../inc/options-setup.php:926 ../inc/options-setup.php:930
+msgid "Custom"
+msgstr ""
+
+#: ../inc/options-setup.php:118
+msgid "Alternative for mobile devices"
+msgstr ""
+
+#: ../inc/options-setup.php:124 ../inc/options-setup.php:891
+msgid "Banner"
+msgstr ""
+
+#: ../inc/options-setup.php:138 ../inc/options-setup.php:153
+#: ../inc/options-setup.php:257 ../inc/options-setup.php:343
+msgid "Navigation"
+msgstr ""
+
+#: ../inc/options-setup.php:145 ../inc/options-setup.php:907
+msgid "Headline"
+msgstr ""
+
+#: ../inc/options-setup.php:146 ../inc/options-setup.php:896
+#: ../inc/options-setup.php:902 ../inc/options-setup.php:908
+#: ../inc/options-setup.php:920 ../inc/options-setup.php:924
+#: ../inc/options-setup.php:928 ../inc/options-setup.php:932
+msgid "Hide"
+msgstr ""
+
+#: ../inc/options-setup.php:147 ../inc/options-setup.php:909
+msgid "None (title only)"
+msgstr ""
+
+#: ../inc/options-setup.php:148 ../inc/options-setup.php:367
+#: ../inc/options-setup.php:769 ../inc/options-setup.php:777
+#: ../inc/options-setup.php:910
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../inc/options-setup.php:149
+msgid "Navigation (if possible) or breadcrumbs"
+msgstr ""
+
+#: ../inc/options-setup.php:150
+msgid "Only navigation (if possible)"
+msgstr ""
+
+#: ../inc/options-setup.php:153
+msgid "Next &amp; Previous buttons navigate in current category only"
+msgstr ""
+
+#: ../inc/options-setup.php:158
+msgid "Sidebars"
+msgstr ""
+
+#: ../inc/options-setup.php:160
+msgid "Available sidebars"
+msgstr ""
+
+#: ../inc/options-setup.php:160
+#, php-format
+msgid "Notice: sidebars on the left side of content are always %dpx wide."
+msgstr ""
+
+#: ../inc/options-setup.php:160
+msgid "Usable width is 50px smaller because of paddings."
+msgstr ""
+
+#: ../inc/options-setup.php:162
+msgctxt "sidebar"
+msgid "Primary"
+msgstr ""
+
+#: ../inc/options-setup.php:163
+msgctxt "sidebar"
+msgid "Secondary"
+msgstr ""
+
+#: ../inc/options-setup.php:164
+msgid "New sidebar"
+msgstr ""
+
+#: ../inc/options-setup.php:169
+msgid "(None)"
+msgstr ""
+
+#: ../inc/options-setup.php:174 ../inc/options-setup.php:182
+#: ../inc/options-setup.php:887 ../inc/shortcodes.php:1867
+#: ../inc/widgets.php:149
+msgid "Layout"
+msgstr ""
+
+#: ../inc/options-setup.php:179 ../inc/options-setup.php:303
+msgid "Footer"
+msgstr ""
+
+#: ../inc/options-setup.php:182
+msgid "You can specify footer content in Appearance / Widgets."
+msgstr ""
+
+#: ../inc/options-setup.php:183
+msgid "Full width"
+msgstr ""
+
+#: ../inc/options-setup.php:184 ../inc/options-setup.php:197
+#: ../inc/shortcodes.php:1870 ../inc/widgets.php:152
+msgid "Two columns"
+msgstr ""
+
+#: ../inc/options-setup.php:185 ../inc/options-setup.php:198
+#: ../inc/shortcodes.php:1871 ../inc/widgets.php:153
+msgid "Three columns"
+msgstr ""
+
+#: ../inc/options-setup.php:186 ../inc/shortcodes.php:1872
+#: ../inc/widgets.php:154
+msgid "Four columns"
+msgstr ""
+
+#: ../inc/options-setup.php:187 ../inc/shortcodes.php:1873
+msgid "Five columns"
+msgstr ""
+
+#: ../inc/options-setup.php:188 ../inc/shortcodes.php:1874
+msgid "Six columns"
+msgstr ""
+
+#: ../inc/options-setup.php:194
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/options-setup.php:196
+msgid "Basic"
+msgstr ""
+
+#: ../inc/options-setup.php:199 ../inc/options-setup.php:463
+#: ../inc/options-setup.php:873
+msgid "Other"
+msgstr ""
+
+#: ../inc/options-setup.php:202 ../inc/options-setup.php:308
+#: ../inc/options-setup.php:492
+msgid "End note"
+msgstr ""
+
+#: ../inc/options-setup.php:203
+msgid "Show end note"
+msgstr ""
+
+#: ../inc/options-setup.php:204
+#, php-format
+msgid "&copy; Copyright %s"
+msgstr ""
+
+#: ../inc/options-setup.php:204
+#, php-format
+msgid "%1$s by <a href=\"%3$s\">%2$s</a>"
+msgstr ""
+
+#: ../inc/options-setup.php:210
+#, php-format
+msgid "powered by %s theme"
+msgstr ""
+
+#: ../inc/options-setup.php:220
+msgid "Site"
+msgstr ""
+
+#: ../inc/options-setup.php:222
+msgid "Blog style"
+msgstr ""
+
+#: ../inc/options-setup.php:224 ../inc/shortcodes.php:102
+#: ../inc/shortcodes.php:2091
+msgid "Classic"
+msgstr ""
+
+#: ../inc/options-setup.php:225 ../inc/options-setup.php:780
+#: ../inc/options-setup.php:819 ../inc/options-setup.php:823
+#: ../inc/shortcodes.php:1016 ../inc/shortcodes.php:1629
+#: ../inc/shortcodes.php:2092 ../inc/shortcodes.php:2094
+msgid "Columns"
+msgstr ""
+
+#: ../inc/options-setup.php:229
+msgid "Display filter"
+msgstr ""
+
+#: ../inc/options-setup.php:232 ../inc/shortcodes.php:1881
+#: ../inc/shortcodes.php:1908 ../inc/shortcodes.php:2098
+#: ../inc/widgets.php:159
+msgid "Tag"
+msgstr ""
+
+#: ../inc/options-setup.php:235 ../inc/options-setup.php:246
+msgid "Images"
+msgstr ""
+
+#: ../inc/options-setup.php:237 ../inc/shortcodes.php:127
+msgid "Border"
+msgstr ""
+
+#: ../inc/options-setup.php:238 ../inc/shortcodes.php:132
+#: ../inc/shortcodes.php:1910 ../inc/widgets.php:188
+msgid "Hover effect"
+msgstr ""
+
+#: ../inc/options-setup.php:239
+msgid "Open in FancyBox"
+msgstr ""
+
+#: ../inc/options-setup.php:241
+msgid "Fit images to screen horizontally only"
+msgstr ""
+
+#: ../inc/options-setup.php:243
+msgid "Image hover effect icons"
+msgstr ""
+
+#: ../inc/options-setup.php:243
+msgid "Depending on link type."
+msgstr ""
+
+#: ../inc/options-setup.php:247
+msgid "E-mail addresses"
+msgstr ""
+
+#: ../inc/options-setup.php:248
+msgid "Links with title"
+msgstr ""
+
+#: ../inc/options-setup.php:250 ../inc/options-setup.php:266
+#: ../inc/options-setup.php:782 ../inc/shortcodes.php:1896
+#: ../inc/shortcodes.php:2088
+msgid "Pagination"
+msgstr ""
+
+#: ../inc/options-setup.php:251 ../inc/options-setup.php:256
+#: ../inc/options-setup.php:267 ../inc/options-setup.php:783
+msgid "Numbers"
+msgstr ""
+
+#: ../inc/options-setup.php:252 ../inc/options-setup.php:268
+#: ../inc/options-setup.php:784
+msgid "Numbers + navigation"
+msgstr ""
+
+#: ../inc/options-setup.php:255
+msgid "Page break pagination"
+msgstr ""
+
+#: ../inc/options-setup.php:260 ../inc/options-setup.php:536
+#: ../inc/options-setup.php:682 ../inc/options-setup.php:699
+#: ../inc/options-setup.php:718 ../inc/options-setup.php:761
+msgid "Comments"
+msgstr ""
+
+#: ../inc/options-setup.php:261
+msgid ""
+"If you select absolute, you can specify one of methods in Settings / General."
+msgstr ""
+
+#: ../inc/options-setup.php:263
+msgid "Relative"
+msgstr ""
+
+#: ../inc/options-setup.php:264
+msgid "Absolute"
+msgstr ""
+
+#: ../inc/options-setup.php:274
+msgid "Colors"
+msgstr ""
+
+#: ../inc/options-setup.php:288
+msgid "Affects sub-menu only."
+msgstr ""
+
+#: ../inc/options-setup.php:293 ../inc/options-setup.php:893
+msgid "Secondary menu"
+msgstr ""
+
+#: ../inc/options-setup.php:314
+msgid "Fonts"
+msgstr ""
+
+#: ../inc/options-setup.php:319
+msgctxt "font"
+msgid "Main"
+msgstr ""
+
+#: ../inc/options-setup.php:347
+msgctxt "navigation"
+msgid "Main"
+msgstr ""
+
+#: ../inc/options-setup.php:353
+msgctxt "navigation"
+msgid "Secondary"
+msgstr ""
+
+#: ../inc/options-setup.php:357
+msgid "Page headline"
+msgstr ""
+
+#: ../inc/options-setup.php:371
+msgid "Widget title"
+msgstr ""
+
+#: ../inc/options-setup.php:375
+msgid "In sidebar"
+msgstr ""
+
+#: ../inc/options-setup.php:381
+msgid "In footer"
+msgstr ""
+
+#: ../inc/options-setup.php:385
+msgid "Post/page"
+msgstr ""
+
+#: ../inc/options-setup.php:395 ../inc/options-setup.php:522
+#: ../inc/options-setup.php:676 ../inc/options-setup.php:693
+#: ../inc/options-setup.php:712 ../inc/options-setup.php:755
+#: ../inc/options-setup.php:808 ../inc/options-setup.php:926
+msgid "Meta"
+msgstr ""
+
+#: ../inc/options-setup.php:399
+msgid "Headlines"
+msgstr ""
+
+#: ../inc/options-setup.php:437 ../inc/shortcodes.php:123
+msgid "Buttons"
+msgstr ""
+
+#: ../inc/options-setup.php:441 ../inc/shortcodes.php:822
+#: ../inc/shortcodes.php:1353
+msgid "Small"
+msgstr ""
+
+#: ../inc/options-setup.php:447 ../inc/shortcodes.php:823
+msgid "Normal"
+msgstr ""
+
+#: ../inc/options-setup.php:453 ../inc/shortcodes.php:824
+#: ../inc/shortcodes.php:1352
+msgid "Big"
+msgstr ""
+
+#: ../inc/options-setup.php:459 ../inc/shortcodes.php:825
+msgid "Huge"
+msgstr ""
+
+#: ../inc/options-setup.php:467 ../inc/shortcodes.php:475
+msgid "Horizontal line"
+msgstr ""
+
+#: ../inc/options-setup.php:473 ../inc/shortcodes.php:929
+msgid "Quote"
+msgstr ""
+
+#: ../inc/options-setup.php:479 ../inc/shortcodes.php:978
+msgid "Message box"
+msgstr ""
+
+#: ../inc/options-setup.php:485
+msgid "Code"
+msgstr ""
+
+#: ../inc/options-setup.php:496
+msgid "New font"
+msgstr ""
+
+#: ../inc/options-setup.php:501 ../inc/shortcodes.php:1841
+msgid "Posts"
+msgstr ""
+
+#: ../inc/options-setup.php:503 ../inc/options.php:205
+msgid "Featured image"
+msgstr ""
+
+#: ../inc/options-setup.php:504 ../inc/shortcodes.php:898
+msgid "Align"
+msgstr ""
+
+#: ../inc/options-setup.php:510
+msgid "Format posts icons"
+msgstr ""
+
+#: ../inc/options-setup.php:510
+msgid "Hide post format icon"
+msgstr ""
+
+#: ../inc/options-setup.php:512 ../inc/options-setup.php:672
+#: ../inc/options-setup.php:689 ../inc/options-setup.php:708
+#: ../inc/options-setup.php:745
+msgid "Hide title in content area"
+msgstr ""
+
+#: ../inc/options-setup.php:514 ../inc/options-setup.php:515
+#: ../inc/options-setup.php:747 ../inc/options-setup.php:748
+msgid "Read more"
+msgstr ""
+
+#: ../inc/options-setup.php:515 ../inc/options-setup.php:748
+msgid "Phrase"
+msgstr ""
+
+#: ../inc/options-setup.php:516 ../inc/options-setup.php:749
+#: ../inc/shortcodes.php:673 ../inc/shortcodes.php:736
+#: ../inc/shortcodes.php:1236
+msgid "Icon"
+msgstr ""
+
+#: ../inc/options-setup.php:518 ../inc/options-setup.php:751
+#: ../inc/shortcodes.php:1633 ../inc/shortcodes.php:1898
+msgid "Teaser"
+msgstr ""
+
+#: ../inc/options-setup.php:518
+msgid "Hide content before the more tag inside post"
+msgstr ""
+
+#: ../inc/options-setup.php:520 ../inc/options-setup.php:674
+#: ../inc/options-setup.php:691 ../inc/options-setup.php:710
+#: ../inc/options-setup.php:753 ../inc/options-setup.php:922
+msgid "Author details"
+msgstr ""
+
+#: ../inc/options-setup.php:520
+msgid "Show author details inside post"
+msgstr ""
+
+#: ../inc/options-setup.php:523
+msgid "Before post"
+msgstr ""
+
+#: ../inc/options-setup.php:525 ../inc/options-setup.php:531
+#: ../inc/options-setup.php:545 ../inc/options-setup.php:557
+#: ../inc/options-setup.php:569 ../inc/options-setup.php:581
+#: ../inc/options-setup.php:593 ../inc/options-setup.php:605
+#: ../inc/options-setup.php:621 ../inc/options-setup.php:633
+#: ../inc/options-setup.php:645 ../inc/options-setup.php:657
+msgid "On posts list"
+msgstr ""
+
+#: ../inc/options-setup.php:527 ../inc/options-setup.php:533
+#: ../inc/options-setup.php:546 ../inc/options-setup.php:558
+#: ../inc/options-setup.php:570 ../inc/options-setup.php:582
+#: ../inc/options-setup.php:594 ../inc/options-setup.php:606
+#: ../inc/options-setup.php:622 ../inc/options-setup.php:634
+#: ../inc/options-setup.php:646 ../inc/options-setup.php:658
+msgid "Inside post"
+msgstr ""
+
+#: ../inc/options-setup.php:530 ../inc/options-setup.php:679
+#: ../inc/options-setup.php:696 ../inc/options-setup.php:715
+#: ../inc/options-setup.php:758 ../inc/options-setup.php:930
+#: ../inc/shortcodes.php:1457 ../inc/widgets.php:131
+msgid "Social buttons"
+msgstr ""
+
+#: ../inc/options-setup.php:536 ../inc/options-setup.php:682
+#: ../inc/options-setup.php:699 ../inc/options-setup.php:718
+#: ../inc/options-setup.php:761
+msgid "Allow comments"
+msgstr ""
+
+#: ../inc/options-setup.php:541
+msgid "Format posts"
+msgstr ""
+
+#: ../inc/options-setup.php:543
+msgid "Standard post"
+msgstr ""
+
+#: ../inc/options-setup.php:544 ../inc/options-setup.php:556
+#: ../inc/options-setup.php:568 ../inc/options-setup.php:580
+#: ../inc/options-setup.php:592 ../inc/options-setup.php:604
+#: ../inc/options-setup.php:620 ../inc/options-setup.php:632
+#: ../inc/options-setup.php:644 ../inc/options-setup.php:656
+msgid "Show featured image"
+msgstr ""
+
+#: ../inc/options-setup.php:548 ../inc/options-setup.php:560
+#: ../inc/options-setup.php:572 ../inc/options-setup.php:584
+#: ../inc/options-setup.php:596 ../inc/options-setup.php:612
+#: ../inc/options-setup.php:624 ../inc/options-setup.php:636
+#: ../inc/options-setup.php:648 ../inc/options-setup.php:660
+msgid "Content on posts list"
+msgstr ""
+
+#: ../inc/options-setup.php:548 ../inc/options-setup.php:733
+#: ../inc/shortcodes.php:1633 ../inc/shortcodes.php:1898
+#: ../inc/widgets.php:177
+msgid "Regular content means everything before the \"Read more\" tag."
+msgstr ""
+
+#: ../inc/options-setup.php:549 ../inc/options-setup.php:561
+#: ../inc/options-setup.php:573 ../inc/options-setup.php:585
+#: ../inc/options-setup.php:597 ../inc/options-setup.php:613
+#: ../inc/options-setup.php:625 ../inc/options-setup.php:637
+#: ../inc/options-setup.php:649 ../inc/options-setup.php:661
+#: ../inc/options-setup.php:734 ../inc/shortcodes.php:1635
+#: ../inc/shortcodes.php:1900 ../inc/widgets.php:178
+msgid "Regular content"
+msgstr ""
+
+#: ../inc/options-setup.php:550 ../inc/options-setup.php:562
+#: ../inc/options-setup.php:574 ../inc/options-setup.php:586
+#: ../inc/options-setup.php:598 ../inc/options-setup.php:614
+#: ../inc/options-setup.php:626 ../inc/options-setup.php:638
+#: ../inc/options-setup.php:650 ../inc/options-setup.php:662
+#: ../inc/options-setup.php:735 ../inc/shortcodes.php:1636
+#: ../inc/shortcodes.php:1901 ../inc/widgets.php:179
+msgid "Excerpt or regular content"
+msgstr ""
+
+#: ../inc/options-setup.php:551 ../inc/options-setup.php:563
+#: ../inc/options-setup.php:575 ../inc/options-setup.php:587
+#: ../inc/options-setup.php:599 ../inc/options-setup.php:615
+#: ../inc/options-setup.php:627 ../inc/options-setup.php:639
+#: ../inc/options-setup.php:651 ../inc/options-setup.php:663
+#: ../inc/options-setup.php:736 ../inc/shortcodes.php:1637
+#: ../inc/shortcodes.php:1902 ../inc/widgets.php:180
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/options-setup.php:555
+msgid "Aside post"
+msgstr ""
+
+#: ../inc/options-setup.php:567
+msgid "Audio post"
+msgstr ""
+
+#: ../inc/options-setup.php:579
+msgid "Chat post"
+msgstr ""
+
+#: ../inc/options-setup.php:591
+msgid "Gallery post"
+msgstr ""
+
+#: ../inc/options-setup.php:603
+msgid "Image post"
+msgstr ""
+
+#: ../inc/options-setup.php:608
+msgid "Featured image click action"
+msgstr ""
+
+#: ../inc/options-setup.php:608
+msgid ""
+"Click action refers to posts list only. Inside posts, clicked featured "
+"images always open in Fancybox window."
+msgstr ""
+
+#: ../inc/options-setup.php:609
+msgid "Go to post"
+msgstr ""
+
+#: ../inc/options-setup.php:610
+msgid "Open image in Fancybox"
+msgstr ""
+
+#: ../inc/options-setup.php:619
+msgid "Link post"
+msgstr ""
+
+#: ../inc/options-setup.php:631
+msgid "Quote post"
+msgstr ""
+
+#: ../inc/options-setup.php:643
+msgid "Status post"
+msgstr ""
+
+#: ../inc/options-setup.php:655
+msgid "Video post"
+msgstr ""
+
+#: ../inc/options-setup.php:670
+msgid "Pages"
+msgstr ""
+
+#: ../inc/options-setup.php:674 ../inc/options-setup.php:691
+#: ../inc/options-setup.php:710 ../inc/options-setup.php:753
+msgid "Show author details"
+msgstr ""
+
+#: ../inc/options-setup.php:687
+msgid "Attachment pages"
+msgstr ""
+
+#: ../inc/options-setup.php:706 ../inc/options-setup.php:725
+msgid "Slug"
+msgstr ""
+
+#: ../inc/options-setup.php:706 ../inc/options-setup.php:725
+msgid "For the changes to take effect, go to Settings/Permalinks."
+msgstr ""
+
+#: ../inc/options-setup.php:727
+msgid "Archive layout"
+msgstr ""
+
+#: ../inc/options-setup.php:728
+msgid "Number of items per page"
+msgstr ""
+
+#: ../inc/options-setup.php:729
+msgid "Number of columns"
+msgstr ""
+
+#: ../inc/options-setup.php:730 ../inc/widgets.php:174
+msgid "Show title"
+msgstr ""
+
+#: ../inc/options-setup.php:732 ../inc/widgets.php:176
+msgid "Show content"
+msgstr ""
+
+#: ../inc/options-setup.php:738 ../inc/shortcodes.php:1640
+#: ../inc/shortcodes.php:1905 ../inc/widgets.php:182
+msgid "Taxonomy"
+msgstr ""
+
+#: ../inc/options-setup.php:739 ../inc/widgets.php:183
+msgid "Show taxonomies"
+msgstr ""
+
+#: ../inc/options-setup.php:751
+msgid "Hide content before the more tag inside portfolio page"
+msgstr ""
+
+#: ../inc/options-setup.php:766
+msgid "bbPress"
+msgstr ""
+
+#: ../inc/options-setup.php:769
+msgid "Use bbPress breadcrumbs"
+msgstr ""
+
+#: ../inc/options-setup.php:774
+msgid "WooCommerce"
+msgstr ""
+
+#: ../inc/options-setup.php:777
+msgid "Use WooCommerce breadcrumbs"
+msgstr ""
+
+#: ../inc/options-setup.php:781
+msgid "Products per page"
+msgstr ""
+
+#: ../inc/options-setup.php:786
+msgid "Images hover effect"
+msgstr ""
+
+#: ../inc/options-setup.php:787 ../inc/shortcodes.php:128
+#: ../inc/shortcodes.php:133 ../inc/shortcodes.php:139
+#: ../inc/shortcodes.php:1911 ../inc/widgets.php:189
+msgid "Inherit"
+msgstr ""
+
+#: ../inc/options-setup.php:790 ../inc/shortcodes.php:136
+#: ../inc/shortcodes.php:1914 ../inc/widgets.php:192
+msgid "Grayscale"
+msgstr ""
+
+#: ../inc/options-setup.php:791
+msgid "Second gallery image"
+msgstr ""
+
+#: ../inc/options-setup.php:794
+msgid "Product"
+msgstr ""
+
+#: ../inc/options-setup.php:795
+msgid "Image &amp; gallery width"
+msgstr ""
+
+#: ../inc/options-setup.php:800
+msgid "Gallery thumbnails columns"
+msgstr ""
+
+#: ../inc/options-setup.php:801
+msgid "Gallery captions"
+msgstr ""
+
+#: ../inc/options-setup.php:803
+msgid "Image title"
+msgstr ""
+
+#: ../inc/options-setup.php:804
+msgid "Image caption"
+msgstr ""
+
+#: ../inc/options-setup.php:805
+msgid "Image caption or title"
+msgstr ""
+
+#: ../inc/options-setup.php:807
+msgid "Brand"
+msgstr ""
+
+#: ../inc/options-setup.php:807
+msgid "Show brand description"
+msgstr ""
+
+#: ../inc/options-setup.php:811
+msgid "SKU"
+msgstr ""
+
+#: ../inc/options-setup.php:814
+msgid "Brands"
+msgstr ""
+
+#: ../inc/options-setup.php:817
+msgid "Related products"
+msgstr ""
+
+#: ../inc/options-setup.php:818 ../inc/options-setup.php:822
+msgid "Products"
+msgstr ""
+
+#: ../inc/options-setup.php:821
+msgid "Cross sells"
+msgstr ""
+
+#: ../inc/options-setup.php:826 ../inc/options.php:204
+msgid "Image"
+msgstr ""
+
+#: ../inc/options-setup.php:830 ../inc/options-setup.php:835
+#: ../inc/options-setup.php:840 ../inc/shortcodes.php:496
+#: ../inc/shortcodes.php:676 ../inc/shortcodes.php:832
+#: ../inc/shortcodes.php:948 ../inc/shortcodes.php:1239
+msgid "Color"
+msgstr ""
+
+#: ../inc/options-setup.php:832
+msgid "Sale label style"
+msgstr ""
+
+#: ../inc/options-setup.php:837
+msgid "Ratings style"
+msgstr ""
+
+#: ../inc/options-setup.php:845
+msgid "404 page"
+msgstr ""
+
+#: ../inc/options-setup.php:849
+msgid "Are you lost?"
+msgstr ""
+
+#: ../inc/options-setup.php:850
+#, php-format
+msgid ""
+"This is 404 page - it seems you've encountered a dead link or missing page. "
+"You can use search form below to find what you're lookig for or go to a <a "
+"href=\"%s\">homepage</a>."
+msgstr ""
+
+#: ../inc/options-setup.php:862 ../inc/shortcodes.php:580
+#: ../inc/shortcodes.php:631 ../inc/shortcodes.php:682
+#: ../inc/shortcodes.php:744 ../inc/shortcodes.php:834
+#: ../inc/shortcodes.php:1283 ../inc/shortcodes.php:1556
+msgid "Advanced"
+msgstr ""
+
+#: ../inc/options-setup.php:868
+msgid ""
+"This option is not recommended since Chrome version 37 and Opera version 25 "
+"were released."
+msgstr ""
+
+#: ../inc/options-setup.php:868
+msgid "Enhance fonts in Chrome and Opera browsers"
+msgstr ""
+
+#: ../inc/options-setup.php:894
+msgid "Upper"
+msgstr ""
+
+#: ../inc/options-setup.php:895 ../inc/options-setup.php:901
+#: ../inc/options-setup.php:919 ../inc/options-setup.php:923
+#: ../inc/options-setup.php:927 ../inc/options-setup.php:931
+msgid "Show"
+msgstr ""
+
+#: ../inc/options-setup.php:898 ../inc/options-setup.php:904
+msgid "Custom menu"
+msgstr ""
+
+#: ../inc/options-setup.php:900
+msgid "Lower"
+msgstr ""
+
+#: ../inc/options-setup.php:911
+msgid "Navigation (if possible)"
+msgstr ""
+
+#: ../inc/options-setup.php:914 ../inc/options.php:485
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/options.php:50
+msgid "@2x"
+msgstr ""
+
+#: ../inc/options.php:111
+msgid "Content opacity"
+msgstr ""
+
+#: ../inc/options.php:123
+msgid "Add stripes"
+msgstr ""
+
+#: ../inc/options.php:203
+msgid "Empty space"
+msgstr ""
+
+#: ../inc/options.php:206 ../inc/shortcodes.php:104 ../inc/shortcodes.php:1627
+msgid "Slider"
+msgstr ""
+
+#: ../inc/options.php:207
+msgid "Map"
+msgstr ""
+
+#: ../inc/options.php:209
+msgid "Embeding code"
+msgstr ""
+
+#: ../inc/options.php:210
+msgid "Custom HTML"
+msgstr ""
+
+#: ../inc/options.php:294
+msgid "Embeding code from YouTube, Vimeo, Google Maps or other."
+msgstr ""
+
+#: ../inc/shortcodes.php:103
+msgid "Bricks"
+msgstr ""
+
+#: ../inc/shortcodes.php:105
+msgid "Scroller"
+msgstr ""
+
+#: ../inc/shortcodes.php:106 ../inc/shortcodes.php:1093
+msgid "Tabs"
+msgstr ""
+
+#: ../inc/shortcodes.php:108
+msgid "Captions"
+msgstr ""
+
+#: ../inc/shortcodes.php:109
+msgid "Fit images"
+msgstr ""
+
+#: ../inc/shortcodes.php:110
+msgid "Matrix style"
+msgstr ""
+
+#: ../inc/shortcodes.php:112
+msgid "Transition"
+msgstr ""
+
+#: ../inc/shortcodes.php:114 ../inc/shortcodes.php:579
+msgid "Fade"
+msgstr ""
+
+#: ../inc/shortcodes.php:118
+msgid "Speed"
+msgstr ""
+
+#: ../inc/shortcodes.php:119
+msgid "Auto play"
+msgstr ""
+
+#: ../inc/shortcodes.php:120
+msgid "Exposure time"
+msgstr ""
+
+#: ../inc/shortcodes.php:121
+msgid "Arrows controls"
+msgstr ""
+
+#: ../inc/shortcodes.php:122
+msgid "Dots controls"
+msgstr ""
+
+#: ../inc/shortcodes.php:124
+msgid "Ordered"
+msgstr ""
+
+#: ../inc/shortcodes.php:125
+msgid "Descriptions"
+msgstr ""
+
+#: ../inc/shortcodes.php:138
+msgid "Fancybox"
+msgstr ""
+
+#: ../inc/shortcodes.php:444
+msgid "Line"
+msgstr ""
+
+#: ../inc/shortcodes.php:445
+msgid "Divider"
+msgstr ""
+
+#: ../inc/shortcodes.php:448
+msgid "Extra space"
+msgstr ""
+
+#: ../inc/shortcodes.php:498
+msgid "Yellow"
+msgstr ""
+
+#: ../inc/shortcodes.php:515
+msgid "Text mark"
+msgstr ""
+
+#: ../inc/shortcodes.php:547
+msgid "Dropcap"
+msgstr ""
+
+#: ../inc/shortcodes.php:569 ../inc/widgets.php:33
+msgid "Tooltip position"
+msgstr ""
+
+#: ../inc/shortcodes.php:570 ../inc/widgets.php:34
+msgid "Northwest"
+msgstr ""
+
+#: ../inc/shortcodes.php:571 ../inc/widgets.php:35
+msgid "North"
+msgstr ""
+
+#: ../inc/shortcodes.php:572 ../inc/widgets.php:36
+msgid "Northeast"
+msgstr ""
+
+#: ../inc/shortcodes.php:573 ../inc/widgets.php:37
+msgid "West"
+msgstr ""
+
+#: ../inc/shortcodes.php:574 ../inc/widgets.php:38
+msgid "East"
+msgstr ""
+
+#: ../inc/shortcodes.php:575 ../inc/widgets.php:39
+msgid "Southwest"
+msgstr ""
+
+#: ../inc/shortcodes.php:576 ../inc/widgets.php:40
+msgid "South"
+msgstr ""
+
+#: ../inc/shortcodes.php:577 ../inc/widgets.php:41
+msgid "Southeast"
+msgstr ""
+
+#: ../inc/shortcodes.php:600
+msgid "Tooltip"
+msgstr ""
+
+#: ../inc/shortcodes.php:627
+msgid "No fonts defined in Theme Options / Fonts / Custom"
+msgstr ""
+
+#: ../inc/shortcodes.php:634 ../inc/shortcodes.php:684
+#: ../inc/shortcodes.php:746 ../inc/shortcodes.php:836
+msgid "CSS style"
+msgstr ""
+
+#: ../inc/shortcodes.php:654
+msgid "Font"
+msgstr ""
+
+#: ../inc/shortcodes.php:681
+msgid "If empty, default size will be used."
+msgstr ""
+
+#: ../inc/shortcodes.php:714
+msgid "Vector icon"
+msgstr ""
+
+#: ../inc/shortcodes.php:799
+msgid "Image icon"
+msgstr ""
+
+#: ../inc/shortcodes.php:827
+msgid "Hyperlink"
+msgstr ""
+
+#: ../inc/shortcodes.php:828
+msgid "Open link in new window"
+msgstr ""
+
+#: ../inc/shortcodes.php:829
+msgid "Caption"
+msgstr ""
+
+#: ../inc/shortcodes.php:830
+msgid "Forecolor"
+msgstr ""
+
+#: ../inc/shortcodes.php:830 ../inc/shortcodes.php:832
+msgid "If empty, default color will be used."
+msgstr ""
+
+#: ../inc/shortcodes.php:877
+msgid "Button"
+msgstr ""
+
+#: ../inc/shortcodes.php:897
+msgid "Bar"
+msgstr ""
+
+#: ../inc/shortcodes.php:903 ../inc/shortcodes.php:1037
+msgid "Width"
+msgstr ""
+
+#: ../inc/shortcodes.php:950
+msgid "Blue"
+msgstr ""
+
+#: ../inc/shortcodes.php:951
+msgid "Green"
+msgstr ""
+
+#: ../inc/shortcodes.php:952
+msgid "Orange"
+msgstr ""
+
+#: ../inc/shortcodes.php:953
+msgid "Red"
+msgstr ""
+
+#: ../inc/shortcodes.php:955
+msgid "Closable"
+msgstr ""
+
+#: ../inc/shortcodes.php:956
+msgid "Don't show again after closing"
+msgstr ""
+
+#: ../inc/shortcodes.php:997
+msgid "Separated"
+msgstr ""
+
+#: ../inc/shortcodes.php:1037
+msgid "In fraction format."
+msgstr ""
+
+#: ../inc/shortcodes.php:1062
+msgid "Column"
+msgstr ""
+
+#: ../inc/shortcodes.php:1115 ../inc/shortcodes.php:1195
+msgid "Active"
+msgstr ""
+
+#: ../inc/shortcodes.php:1134
+msgid "Tab"
+msgstr ""
+
+#: ../inc/shortcodes.php:1156
+msgid "Singular"
+msgstr ""
+
+#: ../inc/shortcodes.php:1173
+msgid "Toggles"
+msgstr ""
+
+#: ../inc/shortcodes.php:1214
+msgid "Toggle"
+msgstr ""
+
+#: ../inc/shortcodes.php:1239
+msgid "If empty, leading color will be used."
+msgstr ""
+
+#: ../inc/shortcodes.php:1257
+msgid "Icon list"
+msgstr ""
+
+#: ../inc/shortcodes.php:1276 ../inc/shortcodes.php:1332
+msgid "Rating"
+msgstr ""
+
+#: ../inc/shortcodes.php:1276
+msgid "In a rate/max format. For example: 4/5 or 3.5/6."
+msgstr ""
+
+#: ../inc/shortcodes.php:1355 ../inc/widgets.php:99
+msgid "Media"
+msgstr ""
+
+#: ../inc/shortcodes.php:1522
+msgid "Send"
+msgstr ""
+
+#: ../inc/shortcodes.php:1553
+msgid "Desktop"
+msgstr ""
+
+#: ../inc/shortcodes.php:1554
+msgid "Mobile"
+msgstr ""
+
+#: ../inc/shortcodes.php:1573
+msgid "Device"
+msgstr ""
+
+#: ../inc/shortcodes.php:1592
+msgid "Specific post/page"
+msgstr ""
+
+#: ../inc/shortcodes.php:1594
+msgid "Many posts"
+msgstr ""
+
+#: ../inc/shortcodes.php:1597
+msgid "Post type"
+msgstr ""
+
+#: ../inc/shortcodes.php:1606 ../inc/shortcodes.php:2069
+msgid "Only for posts."
+msgstr ""
+
+#: ../inc/shortcodes.php:1608 ../inc/shortcodes.php:2071
+msgid "All categories"
+msgstr ""
+
+#: ../inc/shortcodes.php:1617 ../inc/shortcodes.php:1889
+#: ../inc/shortcodes.php:2080 ../inc/widgets.php:167
+msgid "Custom order"
+msgstr ""
+
+#: ../inc/shortcodes.php:1623 ../inc/shortcodes.php:1895
+#: ../inc/widgets.php:173
+msgid "Count"
+msgstr ""
+
+#: ../inc/shortcodes.php:1624 ../inc/shortcodes.php:2087
+msgid "Duplicates"
+msgstr ""
+
+#: ../inc/shortcodes.php:1624 ../inc/shortcodes.php:2087
+msgid "Exclude already displayed posts"
+msgstr ""
+
+#: ../inc/shortcodes.php:1629 ../inc/shortcodes.php:1630
+#: ../inc/shortcodes.php:1640
+msgid "Only for gallery style."
+msgstr ""
+
+#: ../inc/shortcodes.php:1862 ../inc/widgets.php:146
+msgid "Children of"
+msgstr ""
+
+#: ../inc/shortcodes.php:1862 ../inc/widgets.php:146
+msgid "Displays child portfolios of selected portfolio."
+msgstr ""
+
+#: ../inc/shortcodes.php:1864
+msgid "This"
+msgstr ""
+
+#: ../inc/shortcodes.php:1868 ../inc/widgets.php:150
+msgid "One column"
+msgstr ""
+
+#: ../inc/shortcodes.php:1869 ../inc/widgets.php:151
+msgid "One+ column"
+msgstr ""
+
+#: ../inc/shortcodes.php:1875
+msgid "Seven columns"
+msgstr ""
+
+#: ../inc/shortcodes.php:1876
+msgid "Eight columns"
+msgstr ""
+
+#: ../inc/shortcodes.php:1878 ../inc/shortcodes.php:2095
+#: ../inc/widgets.php:156
+msgid "Filter"
+msgstr ""
+
+#: ../inc/shortcodes.php:2086
+msgid "Posts per page"
+msgstr ""
+
+#: ../inc/shortcodes.php:2089
+msgid "Sticky posts"
+msgstr ""
+
+#: ../inc/shortcodes.php:2089
+msgid "Ignore"
+msgstr ""
+
+#: ../inc/shortcodes.php:2094 ../inc/shortcodes.php:2095
+msgid "Only for columns style."
+msgstr ""
+
+#: ../inc/shortcodes.php:2210 ../parts/headline.php:39
+msgid "Blog"
+msgstr ""
+
+#: ../inc/widgets.php:31 ../inc/widgets.php:98 ../inc/widgets.php:324
+msgid "Description"
+msgstr ""
+
+#: ../inc/widgets.php:32
+msgid "Icons"
+msgstr ""
+
+#: ../inc/widgets.php:43
+msgid "Native hover colors"
+msgstr ""
+
+#: ../inc/widgets.php:44
+msgid "Open links in new window"
+msgstr ""
+
+#: ../inc/widgets.php:83
+msgid "Social media"
+msgstr ""
+
+#: ../inc/widgets.php:83
+msgid "Social media icons."
+msgstr ""
+
+#: ../inc/widgets.php:131
+msgid "Social media buttons."
+msgstr ""
+
+#: ../inc/widgets.php:309
+msgid "Displays Portfolio or child portfolios of a specified parent porfolio."
+msgstr ""
+
+#: ../inc/widgets.php:343
+msgid "Displays contact form, which can be configured in Theme Options."
+msgstr ""
+
+#: ../inc/woocommerce-widgets.php:57
+msgid "Display cart icon"
+msgstr ""
+
+#: ../parts/headline.php:51
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: ../parts/headline.php:55
+#, php-format
+msgid "All posts by: %s"
+msgstr ""
+
+#: ../parts/navigation.php:28 ../parts/navigation.php:31
+msgid "previous"
+msgstr ""
+
+#: ../parts/navigation.php:36 ../parts/navigation.php:39
+msgid "next"
+msgstr ""
+
+#: ../parts/no-posts.php:13
+msgid "Nothing was found. Please try again with different keywords."
+msgstr ""
+
+#: ../parts/no-posts.php:18
+msgid "There's nothing here."
+msgstr ""

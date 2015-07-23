@@ -1,0 +1,44 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">gallery</custom-type>
+		<custom-type translate="1">portfolio</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio-category</taxonomy>
+		<taxonomy translate="1">portfolio-tag</taxonomy>
+	</taxonomies>
+	<admin-texts>
+		<key name="everything">
+			<key name="header">
+				<key name="tagline">
+					<key name="text" />
+					<key name="mobile">
+						<key name="text" />
+					</key>
+				</key>
+			</key>
+			<key name="footer">
+				<key name="end_note">
+					<key name="left" />
+					<key name="right" />
+				</key>
+			</key>
+			<key name="post">
+			 	<key name="readmore">
+			 		<key name="phrase" />
+			 	</key>
+			</key>
+			<key name="portfolio">
+			 	<key name="readmore">
+			 		<key name="phrase" />
+			 	</key>
+			</key>
+			<key name="not_found">
+			 	<key name="content" />
+			</key>
+			<key name="contact_form">
+				<key name="subject" />
+			</key>
+		</key>
+	</admin-texts>
+</wpml-config>

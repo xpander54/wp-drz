@@ -1,0 +1,3655 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Everything\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-04 18:17+0100\n"
+"PO-Revision-Date: 2014-12-04 19:48+0100\n"
+"Last-Translator:  <kociecka@gmail.com>\n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_x:2c,1;_ex:2c,1;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../woocommerce\n"
+"X-Poedit-SearchPathExcluded-1: ../woocommerce-brands\n"
+
+#: ../comment.php:19
+msgid "reply"
+msgstr "odpowiedz"
+
+#: ../comment.php:22
+msgid "edit"
+msgstr "edytuj"
+
+#: ../comment.php:29 ../drone/theme.php:2722 ../drone/theme.php:2725
+#: ../drone/widgets.php:711
+#, php-format
+msgid "%s ago"
+msgstr "%s temu"
+
+#: ../comment.php:30 ../functions.php:2578
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s o %2$s"
+
+#: ../comment.php:38
+msgid "Your comment is awaiting moderation."
+msgstr "Twój komentarz oczekuje na moderację."
+
+#: ../drone/odd/shortcode-options.php:30
+msgid "Insert/edit shortcode"
+msgstr "Wstaw/edytuj shortcode"
+
+#: ../drone/odd/shortcode-options.php:31
+msgid "This shortcode doesn't have any options"
+msgstr "Ten shorcode nie ma żadnych opcji"
+
+#: ../drone/odd/shortcodes.php:26
+msgid "Shortcodes"
+msgstr "Shortcody"
+
+#: ../drone/options.php:1296
+msgid "System"
+msgstr "System"
+
+#: ../drone/options.php:1300
+msgid "Purchase code"
+msgstr "Purchase code"
+
+#: ../drone/options.php:1300
+#, php-format
+msgid ""
+"<a href=\"%s\">Purchase code</a> is required for theme update notifications "
+"and seamless updates."
+msgstr ""
+"<a href=\"%s\">Purchase code</a> jest wymagany do powiadomień o nowych "
+"wersjach motywu i do łatwych aktualizacji."
+
+#: ../drone/options.php:1312
+msgid "Debug mode"
+msgstr "Tryb debugowania"
+
+#: ../drone/options.php:2334 ../drone/options.php:2561
+#: ../drone/options.php:2817 ../drone/options.php:3611
+#: ../inc/options-setup.php:246 ../inc/options-setup.php:790
+#: ../inc/shortcodes.php:135 ../inc/shortcodes.php:497
+#: ../inc/shortcodes.php:949 ../inc/shortcodes.php:1907 ../inc/widgets.php:191
+msgid "Default"
+msgstr "Domyślny"
+
+#: ../drone/options.php:2750 ../drone/options.php:2755
+#: ../inc/shortcodes.php:129 ../inc/shortcodes.php:140
+#: ../inc/shortcodes.php:448 ../inc/shortcodes.php:579
+#: ../inc/shortcodes.php:828 ../inc/shortcodes.php:897
+#: ../inc/shortcodes.php:955 ../inc/shortcodes.php:956
+#: ../inc/shortcodes.php:997 ../inc/shortcodes.php:1112
+#: ../inc/shortcodes.php:1153 ../inc/shortcodes.php:1192
+#: ../inc/shortcodes.php:1627 ../inc/shortcodes.php:1628
+#: ../inc/shortcodes.php:1629 ../inc/shortcodes.php:1890
+#: ../inc/shortcodes.php:1891 ../inc/shortcodes.php:2082
+msgid "Yes"
+msgstr "Tak"
+
+#: ../drone/options.php:2750 ../inc/shortcodes.php:130
+#: ../inc/shortcodes.php:141
+msgid "No"
+msgstr "Nie"
+
+#: ../drone/options.php:2992
+msgid "Select image"
+msgstr "Wybierz obraz"
+
+#: ../drone/options.php:2995 ../drone/options.php:3065
+msgid "Select"
+msgstr "Wybierz"
+
+#: ../drone/options.php:2996 ../drone/options.php:3066
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: ../drone/options.php:3060
+#, php-format
+msgid "Select %s"
+msgstr "Wybierz %s"
+
+#: ../drone/options.php:3060
+msgid "file"
+msgstr "plik"
+
+#: ../drone/options.php:3783 ../drone/options.php:3792
+#: ../drone/options.php:4018 ../drone/options.php:4036
+msgid "Delete"
+msgstr "Usuń"
+
+#: ../drone/options.php:3798
+msgid "Add new"
+msgstr "Dodaj nowy"
+
+#: ../drone/options.php:3987
+msgid "Inactive"
+msgstr "Nieaktywne"
+
+#: ../drone/options.php:3991
+msgid "Select condition..."
+msgstr "Wybierz warunek..."
+
+#: ../drone/options.php:4019 ../drone/options.php:4037
+#, php-format
+msgid "On %s"
+msgstr "Na %s"
+
+#: ../drone/options.php:4030
+msgid "Customize on..."
+msgstr "Dostosuj na..."
+
+#: ../drone/options.php:4157
+msgid "Front page"
+msgstr "Strona główna"
+
+#: ../drone/options.php:4162
+msgid "Blog / archive"
+msgstr "Blog / archiwum"
+
+#: ../drone/options.php:4167
+msgid "Search"
+msgstr "Szukaj"
+
+#: ../drone/options.php:4172
+msgid "Not found page (404)"
+msgstr "Strona Nie znaleziono (404)"
+
+#: ../drone/options.php:4182
+msgid "Forum"
+msgstr "Forum"
+
+#: ../drone/options.php:4187
+msgid "Topic"
+msgstr "Temat"
+
+#: ../drone/options.php:4192
+msgid "bbPress page"
+msgstr "Strona bbPress"
+
+#: ../drone/options.php:4203 ../inc/options-setup.php:780
+msgid "Shop"
+msgstr "Sklep"
+
+#: ../drone/options.php:4208 ../functions.php:2645
+msgid "Cart"
+msgstr "Koszyk"
+
+#: ../drone/options.php:4213
+msgid "Checkout"
+msgstr "Zamówienie"
+
+#: ../drone/options.php:4218
+msgid "Order received page"
+msgstr "Strona \"Zamównie przyjęte\""
+
+#: ../drone/options.php:4223
+msgid "My account page"
+msgstr "Strona \"Moje Konto\""
+
+#: ../drone/options.php:4228
+msgid "WooCommerce page"
+msgstr "Strona WooCommerce"
+
+#: ../drone/options.php:4237 ../inc/options-setup.php:17
+msgid "General"
+msgstr "Ogólne"
+
+#: ../drone/options.php:4258
+msgid "Page types"
+msgstr "Typy stron"
+
+#: ../drone/options.php:4270
+msgid "Template"
+msgstr "Szablon"
+
+#: ../drone/options.php:4530
+msgid "sec."
+msgstr "sek."
+
+#: ../drone/options.php:4531
+msgid "min."
+msgstr "min."
+
+#: ../drone/options.php:4532
+msgid "hour(s)"
+msgstr "godzin"
+
+#: ../drone/options.php:4533
+msgid "day(s)"
+msgstr "dni"
+
+#: ../drone/options.php:4534
+msgid "week(s)"
+msgstr "tygodni"
+
+#: ../drone/options.php:4715
+msgid "No repeat"
+msgstr "Nie powielaj"
+
+#: ../drone/options.php:4716
+msgid "Repeat"
+msgstr "Powielaj"
+
+#: ../drone/options.php:4717
+msgid "Repeat horizontally"
+msgstr "Powiel w poziomie"
+
+#: ../drone/options.php:4718
+msgid "Repeat vertically"
+msgstr "Powielaj w pionie"
+
+#: ../drone/options.php:4719
+msgid "Fit (cover)"
+msgstr "Dopasowane (przycięte)"
+
+#: ../drone/options.php:4720
+msgid "Fit (contain) "
+msgstr "Dopasowane (zawarte)"
+
+#: ../drone/options.php:4726
+msgid "Left top"
+msgstr "Lewo góra"
+
+#: ../drone/options.php:4727
+msgid "Left center"
+msgstr "Lewo środek"
+
+#: ../drone/options.php:4728
+msgid "Left bottom"
+msgstr "Lewo dół"
+
+#: ../drone/options.php:4729
+msgid "Center top"
+msgstr "Środek góra"
+
+#: ../drone/options.php:4730 ../drone/shortcodes.php:654
+msgid "Center"
+msgstr "Do środka"
+
+#: ../drone/options.php:4731
+msgid "Center bottom"
+msgstr "Środek dół"
+
+#: ../drone/options.php:4732
+msgid "Right top"
+msgstr "Prawo góra"
+
+#: ../drone/options.php:4733
+msgid "Right center"
+msgstr "Prawo środek"
+
+#: ../drone/options.php:4734
+msgid "Right bottom"
+msgstr "Prawo dół"
+
+#: ../drone/options.php:4740 ../inc/options-setup.php:38
+msgid "Scroll"
+msgstr "Nie zaczepiaj"
+
+#: ../drone/options.php:4741
+msgid "Fixed"
+msgstr "Zaczep"
+
+#: ../drone/options.php:5064
+msgid "Classic web fonts"
+msgstr "Klasyczne fonty sieciowe"
+
+#: ../drone/options.php:5067 ../inc/options-setup.php:869
+msgid "Google Fonts"
+msgstr "Fonty Google"
+
+#: ../drone/options.php:5070
+msgid "Custom font-face"
+msgstr "Własny font"
+
+#: ../drone/options.php:5076 ../inc/options-setup.php:831
+msgid "default"
+msgstr "domyślny"
+
+#: ../drone/options.php:5129
+msgid "Bold"
+msgstr "Pogrubienie"
+
+#: ../drone/options.php:5130
+msgid "Italic"
+msgstr "Kursywa"
+
+#: ../drone/options.php:5131
+msgid "Underline"
+msgstr "Podkreślenie"
+
+#: ../drone/shortcodes.php:470 ../inc/options-setup.php:71
+#: ../inc/options-setup.php:134 ../inc/options-setup.php:299
+#: ../inc/options-setup.php:327 ../inc/options-setup.php:732
+#: ../inc/options-setup.php:853 ../inc/options.php:481 ../inc/widgets.php:175
+msgid "Content"
+msgstr "Treść"
+
+#: ../drone/shortcodes.php:653 ../inc/options-setup.php:205
+#: ../inc/options-setup.php:506 ../inc/shortcodes.php:900
+msgid "Left"
+msgstr "Do lewej"
+
+#: ../drone/shortcodes.php:655 ../inc/options-setup.php:211
+#: ../inc/options-setup.php:507 ../inc/shortcodes.php:901
+msgid "Right"
+msgstr "Do prawej"
+
+#: ../drone/shortcodes.php:656 ../inc/options-setup.php:263
+#: ../inc/options-setup.php:553 ../inc/options-setup.php:565
+#: ../inc/options-setup.php:577 ../inc/options-setup.php:589
+#: ../inc/options-setup.php:601 ../inc/options-setup.php:617
+#: ../inc/options-setup.php:629 ../inc/options-setup.php:641
+#: ../inc/options-setup.php:653 ../inc/options-setup.php:665
+#: ../inc/options-setup.php:789 ../inc/options-setup.php:803
+#: ../inc/options.php:202 ../inc/shortcodes.php:113 ../inc/shortcodes.php:134
+#: ../inc/shortcodes.php:899 ../inc/shortcodes.php:1631
+#: ../inc/shortcodes.php:1638 ../inc/shortcodes.php:1873
+#: ../inc/shortcodes.php:1893 ../inc/shortcodes.php:1900
+#: ../inc/shortcodes.php:1906 ../inc/shortcodes.php:2090
+#: ../inc/widgets.php:157 ../inc/widgets.php:190
+msgid "None"
+msgstr "Brak"
+
+#: ../drone/shortcodes.php:816 ../inc/options-setup.php:509
+#: ../inc/shortcodes.php:681 ../inc/shortcodes.php:821
+#: ../inc/shortcodes.php:1348
+msgid "Size"
+msgstr "Rozmiar"
+
+#: ../drone/shortcodes.php:817 ../inc/shortcodes.php:1627
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: ../drone/shortcodes.php:818
+msgid "Medium"
+msgstr "Średni"
+
+#: ../drone/shortcodes.php:819
+msgid "Large"
+msgstr "Duży"
+
+#: ../drone/shortcodes.php:820
+msgid "Full Size"
+msgstr "Pełny rozmiar"
+
+#: ../drone/shortcodes.php:895 ../drone/shortcodes.php:942
+#: ../drone/widgets.php:453 ../drone/widgets.php:486
+#: ../inc/options-setup.php:918 ../inc/options.php:208
+msgid "Page"
+msgstr "Strona"
+
+#: ../drone/shortcodes.php:969 ../inc/shortcodes.php:581
+#: ../inc/shortcodes.php:632 ../inc/shortcodes.php:1281
+#: ../inc/shortcodes.php:1554
+msgid "HTML tag"
+msgstr "Tag HTML"
+
+#: ../drone/shortcodes.php:970 ../inc/shortcodes.php:633
+#: ../inc/shortcodes.php:683 ../inc/shortcodes.php:745
+#: ../inc/shortcodes.php:835
+msgid "CSS class"
+msgstr "Klasa CSS"
+
+#: ../drone/shortcodes.php:1010
+msgid "No format"
+msgstr "Bez formatowania"
+
+#: ../drone/theme.php:632
+#, php-format
+msgid "%s theme options settings"
+msgstr "%s ustawenia motywu"
+
+#: ../drone/theme.php:887
+msgid "Theme Options"
+msgstr "Opcje motywu"
+
+#: ../drone/theme.php:892 ../drone/theme.php:906
+#, php-format
+msgid "%s options"
+msgstr "Opcje %s"
+
+#: ../drone/theme.php:954
+msgid "Theme Options imported successfully."
+msgstr "Opcje motywu zaimportowane pomyślnie"
+
+#: ../drone/theme.php:957
+msgid "No file was selected for import."
+msgstr "Nie wybrano pliku do zaimportowania."
+
+#: ../drone/theme.php:960
+msgid "Mismatched version number of the theme."
+msgstr "Niezgodne numery wersji motywu."
+
+#: ../drone/theme.php:963
+msgid "File could not be imported."
+msgstr "Import pliku się nie powiódł."
+
+#: ../drone/theme.php:988
+msgid ""
+"Your theme comes from unauthorized source and might include viruses or "
+"malicious code."
+msgstr ""
+"Twój motyw pochodzi z nieutoryzowanego źródła i może zawierać wirusy i "
+"złośliwy kod."
+
+#: ../drone/theme.php:990
+#, php-format
+msgid ""
+"Use official theme version which you can <a href=\"%s\">purchase on "
+"ThemeForest.net</a> only."
+msgstr ""
+"Używaj oficjalnej wersji motywu, który możesz <a href=\"%s\">zakupić na "
+"ThemeForest.net</a>."
+
+#: ../drone/theme.php:1080
+#, php-format
+msgid ""
+"To enable this update please paste your <a href=\"%1$s\">purchase code</a> "
+"in <a href=\"%2$s\">Theme Options / System</a>."
+msgstr ""
+"Aby wykonać aktualizację należy wkleić <a href=\"%1$s\">purchase code</a> w "
+"<a href=\"%2$s\">Opcje motywu / System</a>."
+
+#: ../drone/theme.php:1498
+msgid "Please enter your name."
+msgstr "Proszę podać imię."
+
+#: ../drone/theme.php:1503
+msgid "Invalid email address."
+msgstr "Błędny adres e-mail."
+
+#: ../drone/theme.php:1508
+msgid "Invalid website address."
+msgstr "Nieprawidłowy adres strony."
+
+#: ../drone/theme.php:1513
+msgid "Invalid phone number."
+msgstr "Nieprawidłowy numer telefonu."
+
+#: ../drone/theme.php:1518
+msgid "Please write your message."
+msgstr "Proszę wpisać wiadomość."
+
+#: ../drone/theme.php:1523
+msgid "Please complete the captcha."
+msgstr "Proszę wypełnić pole captcha."
+
+#: ../drone/theme.php:1591
+msgid "Your message is recognized as spam."
+msgstr "Twoja wiadomość została rozpoznana jako spam"
+
+#: ../drone/theme.php:1603
+msgid "Message sent."
+msgstr "Wiadomość wysłana."
+
+#: ../drone/theme.php:1605
+msgid "Error occured. Message couldn't be sent."
+msgstr "Wystąpił błąd. Wiadomośc nie mogła zostać wysłana."
+
+#: ../drone/theme.php:2236
+msgid "Favicon image"
+msgstr "Plik faviconu"
+
+#: ../drone/theme.php:2236
+#, php-format
+msgid "Paste favicon's URL or select/upload an image (%s)."
+msgstr "Wklej adres URL faviconu lub wybierz/wgraj obrazek (%s)."
+
+#: ../drone/theme.php:2236
+msgid "Select icon"
+msgstr "Wybierz ikonę"
+
+#: ../drone/theme.php:2266
+msgid "Alternative feed URL"
+msgstr "Link alternatywnego kanału"
+
+#: ../drone/theme.php:2266
+msgid "E.g. FeedBurner."
+msgstr "Np. FeedBurner."
+
+#: ../drone/theme.php:2285
+msgid "Tracking code"
+msgstr "Kod śledzenia"
+
+#: ../drone/theme.php:2285
+msgid "E.g. Google Analitycs."
+msgstr "Np. Google Analitycs."
+
+#: ../drone/theme.php:2304
+msgid "Open Graph Protocol"
+msgstr "Open Graph Protocol"
+
+#: ../drone/theme.php:2305 ../inc/options-setup.php:26
+#: ../inc/options-setup.php:28
+msgid "Enabled"
+msgstr "Włączone"
+
+#: ../drone/theme.php:2306
+msgid "Default image"
+msgstr "Obraz domyślny"
+
+#: ../drone/theme.php:2324
+msgid "Custom CSS code"
+msgstr "Własny kod CSS"
+
+#: ../drone/theme.php:2350
+msgid "Custom JavaScript code"
+msgstr "Własny kod JavaScript"
+
+#: ../drone/theme.php:2386 ../inc/shortcodes.php:1528 ../inc/widgets.php:343
+msgid "Contact form"
+msgstr "Formularz kontaktowy"
+
+#: ../drone/theme.php:2388
+msgid "blog name"
+msgstr "nazwa bloga"
+
+#: ../drone/theme.php:2389
+msgid "blog url"
+msgstr "adres bloga"
+
+#: ../drone/theme.php:2390
+msgid "name field"
+msgstr "pole: imię"
+
+#: ../drone/theme.php:2391
+msgid "e-mail field"
+msgstr "pole: email"
+
+#: ../drone/theme.php:2392
+msgid "website field"
+msgstr "pole: strona"
+
+#: ../drone/theme.php:2393
+msgid "phone number field"
+msgstr "pole: numer telefonu"
+
+#: ../drone/theme.php:2394
+msgid "subject field"
+msgstr "pole: temat"
+
+#: ../drone/theme.php:2395
+msgid "Available form fields"
+msgstr "Dostępne pola formularza"
+
+#: ../drone/theme.php:2395
+msgid "required fields (if present)."
+msgstr "pola wymagane (jeśli użyte)."
+
+#: ../drone/theme.php:2396 ../drone/theme.php:2905 ../drone/tpl/sysinfo.php:20
+#: ../drone/tpl/sysinfo.php:76 ../drone/tpl/sysinfo.php:104
+#: ../functions.php:1264 ../inc/shortcodes.php:621
+msgid "Name"
+msgstr "Podpis"
+
+#: ../drone/theme.php:2397 ../drone/theme.php:2906 ../functions.php:1265
+msgid "E-mail"
+msgstr "E-mail"
+
+#: ../drone/theme.php:2398 ../drone/theme.php:2907 ../functions.php:1266
+msgid "Website"
+msgstr "Witryna internetowa"
+
+#: ../drone/theme.php:2399 ../drone/theme.php:2908
+msgid "Phone number"
+msgstr "Numer telefonu"
+
+#: ../drone/theme.php:2400 ../drone/theme.php:2909
+msgid "Subject"
+msgstr "Temat"
+
+#: ../drone/theme.php:2401 ../drone/theme.php:2910 ../functions.php:1268
+msgid "Message"
+msgstr "Wiadomość"
+
+#: ../drone/theme.php:2402 ../drone/theme.php:2911
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../drone/theme.php:2404
+msgid "E-mail subject"
+msgstr "Temat e-maila"
+
+#: ../drone/theme.php:2405 ../drone/theme.php:2408
+msgid "Recipient e-mail address"
+msgstr "Adres email odbiorcy"
+
+#: ../drone/theme.php:2406
+msgid "Sender e-mail address"
+msgstr "Adres email nadawcy"
+
+#: ../drone/theme.php:2406
+msgid ""
+"Some servers allow only for sending emails from their own domain, so in that "
+"case make sure it's the proper email."
+msgstr ""
+"Niektóre serwery zezwalają na wysyłanie emaili tylko z własnej domeny. "
+"Należy się upewnić, że został wpisany odpowiedni adres email."
+
+#: ../drone/theme.php:2407
+msgid "WordPress settings e-mail"
+msgstr "Email z ustawień WordPressa"
+
+#: ../drone/theme.php:2409
+msgid "E-mail form field"
+msgstr "Z pola email formularza"
+
+#: ../drone/theme.php:2418
+msgid "Advanced settings"
+msgstr "Ustawienia zaawansowane"
+
+#: ../drone/theme.php:2419
+#, php-format
+msgid "Protect from spam with %s"
+msgstr "Chroń przed spamem używając %s"
+
+#: ../drone/theme.php:2420
+#, php-format
+msgid "Override %s header with Name field"
+msgstr "Nadpisz nagłówek %s zawartością pola Imię"
+
+#: ../drone/tpl/sysinfo.php:11
+msgid "Informations"
+msgstr "Informacje"
+
+#: ../drone/tpl/sysinfo.php:21 ../drone/tpl/sysinfo.php:77
+#: ../drone/tpl/sysinfo.php:105
+msgid "Value"
+msgstr "Wartość"
+
+#: ../drone/tpl/sysinfo.php:27
+msgid "PHP version"
+msgstr "Wersja PHP"
+
+#: ../drone/tpl/sysinfo.php:30
+msgid ""
+"You have outdated PHP version on your server. For better performance and "
+"reliability make an update (or ask your hosting provider for that)."
+msgstr ""
+"Masz starą wersję PHP na swoim serwerze. Aby uzyskać lepszą wydajność i "
+"niezawodność zaktualizuj ją (lub poproś o to administratora hostingu)."
+
+#: ../drone/tpl/sysinfo.php:34
+msgid "MySQL version"
+msgstr "Wersja MySQL"
+
+#: ../drone/tpl/sysinfo.php:45
+msgid "WordPress version"
+msgstr "Wersja WordPressa"
+
+#: ../drone/tpl/sysinfo.php:50 ../drone/tpl/sysinfo.php:60
+msgid "Theme version"
+msgstr "Wersja motywu"
+
+#: ../drone/tpl/sysinfo.php:50
+msgid "Parent theme version"
+msgstr "Wersja motywu-rodzica"
+
+#: ../drone/tpl/sysinfo.php:53
+msgid ""
+"Theme name/version information is corrupted. Probably one of theme files is "
+"damaged or modified. If you want to modify theme files, use child theme for "
+"that purpose."
+msgstr ""
+"Informacja o wersji motywu jest niedostępna. Prawdopodobnie jeden z plików "
+"motywu jest uszkodzony lub zmodyfikowany. jeśli chcesz modyfikować motyw, "
+"używaj do tego celu motywu-dziecka."
+
+#: ../drone/tpl/sysinfo.php:55
+#, php-format
+msgid ""
+"New version (%1$s) of %2$s theme is available. <a href=\"%3$s\">Update now</"
+"a>."
+msgstr ""
+"Dostępna jest nowa wersja motywu %2$s (%1$s). <a href=\"%3$s\">Aktualizuj</"
+"a>."
+
+#: ../drone/tpl/sysinfo.php:68
+msgid "Configuration"
+msgstr "Konfiguracja"
+
+#: ../drone/tpl/sysinfo.php:82
+msgid "PHP max. execution time"
+msgstr "PHP max. execution time"
+
+#: ../drone/tpl/sysinfo.php:86
+msgid "PHP memory limit"
+msgstr "PHP memory limit"
+
+#: ../drone/tpl/sysinfo.php:90
+msgid "WordPress memory limit"
+msgstr "WordPress memory limit"
+
+#: ../drone/tpl/sysinfo.php:96
+msgid "Paths"
+msgstr "Paths"
+
+#: ../drone/tpl/sysinfo.php:110
+msgid "Home URL"
+msgstr "Home URL"
+
+#: ../drone/tpl/sysinfo.php:114
+msgid "Site URL"
+msgstr "Site URL"
+
+#: ../drone/tpl/sysinfo.php:118
+msgid "Template URL"
+msgstr "Template URL"
+
+#: ../drone/tpl/sysinfo.php:122
+msgid "Stylesheet URL"
+msgstr "Stylesheet URL"
+
+#: ../drone/tpl/sysinfo.php:126
+msgid "Template directory"
+msgstr "Template directory"
+
+#: ../drone/tpl/sysinfo.php:130
+msgid "Stylesheet directory"
+msgstr "Stylesheet directory"
+
+#: ../drone/tpl/sysinfo.php:136
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: ../drone/tpl/sysinfo.php:138
+msgid "Export Theme Options settings to file."
+msgstr "Eksportuj ustawienia motywu do pliku."
+
+#: ../drone/tpl/sysinfo.php:139
+msgid "Export settings"
+msgstr "Eksportuj ustawienia"
+
+#: ../drone/tpl/sysinfo.php:143
+msgid "Choose a file from your computer"
+msgstr "Wybierz plik z komputera"
+
+#: ../drone/tpl/sysinfo.php:146
+msgid "Import settings"
+msgstr "Importuj ustawienia"
+
+#: ../drone/tpl/sysinfo.php:149
+msgid "Options"
+msgstr "Opcje"
+
+#: ../drone/tpl/theme-options.php:22
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: ../drone/widgets.php:393 ../drone/widgets.php:452 ../drone/widgets.php:521
+#: ../drone/widgets.php:526 ../drone/widgets.php:648 ../drone/widgets.php:784
+#: ../inc/options-setup.php:362 ../inc/options-setup.php:390
+#: ../inc/options-setup.php:513 ../inc/options-setup.php:673
+#: ../inc/options-setup.php:690 ../inc/options-setup.php:709
+#: ../inc/options-setup.php:731 ../inc/options-setup.php:746
+#: ../inc/options-setup.php:919 ../inc/shortcodes.php:568
+#: ../inc/shortcodes.php:1111 ../inc/shortcodes.php:1191
+#: ../inc/shortcodes.php:1609 ../inc/shortcodes.php:1629
+#: ../inc/shortcodes.php:1878 ../inc/shortcodes.php:1891
+#: ../inc/shortcodes.php:2069 ../inc/widgets.php:30 ../inc/widgets.php:97
+#: ../inc/widgets.php:145 ../inc/widgets.php:162 ../inc/widgets.php:323
+msgid "Title"
+msgstr "Tytuł"
+
+#: ../drone/widgets.php:394 ../inc/shortcodes.php:447
+msgid "Text"
+msgstr "Tekstowy"
+
+#: ../drone/widgets.php:397
+msgid "Allow shortcodes"
+msgstr "Zezwalaj na shortcody"
+
+#: ../drone/widgets.php:427
+msgid "Unwrapped text"
+msgstr "Tekst nieformatowany"
+
+#: ../drone/widgets.php:427
+msgid "For pure HTML code."
+msgstr "Na potrzeby kodu HTML."
+
+#: ../drone/widgets.php:486
+msgid "Displays content of a specified page."
+msgstr "Wstawia zawartość wybranej strony."
+
+#: ../drone/widgets.php:522 ../inc/options-setup.php:232
+#: ../inc/shortcodes.php:1603 ../inc/shortcodes.php:1874
+#: ../inc/shortcodes.php:1901 ../inc/shortcodes.php:2063
+#: ../inc/shortcodes.php:2091 ../inc/widgets.php:158
+msgid "Category"
+msgstr "Kategoria"
+
+#: ../drone/widgets.php:523
+msgid "All"
+msgstr "Wszystkie"
+
+#: ../drone/widgets.php:525 ../inc/shortcodes.php:1608
+#: ../inc/shortcodes.php:1877 ../inc/shortcodes.php:2068
+#: ../inc/widgets.php:161
+msgid "Sort by"
+msgstr "Sortuj wg"
+
+#: ../drone/widgets.php:527 ../functions.php:95 ../functions.php:121
+#: ../inc/options-setup.php:262 ../inc/shortcodes.php:1610
+#: ../inc/shortcodes.php:1628 ../inc/shortcodes.php:1879
+#: ../inc/shortcodes.php:2070 ../inc/widgets.php:163
+msgid "Date"
+msgstr "Data"
+
+#: ../drone/widgets.php:528 ../inc/shortcodes.php:1611
+#: ../inc/shortcodes.php:1880 ../inc/shortcodes.php:2071
+#: ../inc/widgets.php:164
+msgid "Modified date"
+msgstr "Data modyfikacji"
+
+#: ../drone/widgets.php:529 ../inc/shortcodes.php:1612
+#: ../inc/shortcodes.php:1881 ../inc/shortcodes.php:2072
+#: ../inc/widgets.php:165
+msgid "Comment count"
+msgstr "Liczba komentarzy"
+
+#: ../drone/widgets.php:530 ../inc/shortcodes.php:1613
+#: ../inc/shortcodes.php:1882 ../inc/shortcodes.php:2073
+#: ../inc/widgets.php:166
+msgid "Random order"
+msgstr "Losowo"
+
+#: ../drone/widgets.php:532 ../inc/shortcodes.php:1616
+#: ../inc/shortcodes.php:1885 ../inc/shortcodes.php:2076
+#: ../inc/widgets.php:169
+msgid "Sort order"
+msgstr "Kolejność"
+
+#: ../drone/widgets.php:533 ../inc/shortcodes.php:1617
+#: ../inc/shortcodes.php:1886 ../inc/shortcodes.php:2077
+#: ../inc/widgets.php:170
+msgid "Ascending"
+msgstr "Ronąco"
+
+#: ../drone/widgets.php:534 ../inc/shortcodes.php:1618
+#: ../inc/shortcodes.php:1887 ../inc/shortcodes.php:2078
+#: ../inc/widgets.php:171
+msgid "Descending"
+msgstr "Malejąco"
+
+#: ../drone/widgets.php:536
+msgid "Posts count"
+msgstr "Liczba wpisów"
+
+#: ../drone/widgets.php:537
+msgid "Post title words limit"
+msgstr "Limit słów w tytule"
+
+#: ../drone/widgets.php:538
+msgid "Show post author"
+msgstr "Pokaż autora wpisu"
+
+#: ../drone/widgets.php:539
+msgid "Show comments count"
+msgstr "Pokaż liczbę komentarzy"
+
+#: ../drone/widgets.php:578
+#, php-format
+msgid "by %s"
+msgstr "wg %s"
+
+#: ../drone/widgets.php:604
+msgid "Posts list"
+msgstr "Lista wpisów"
+
+#: ../drone/widgets.php:604
+msgid ""
+"Displays list of posts by specific criteria (e.g.: newest posts, most "
+"commented, random posts, etc.)."
+msgstr ""
+"Wyświetla listę wpisów wg danych kryteriów (np. najnowsze wpisy, najczęściej "
+"komentowane, losowe, itd.)"
+
+#: ../drone/widgets.php:649 ../drone/widgets.php:785
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: ../drone/widgets.php:656
+msgid "Tweets count"
+msgstr "Liczba tweetów"
+
+#: ../drone/widgets.php:657 ../drone/widgets.php:787
+msgid "Update interval"
+msgstr "Częstotliwość pobierania"
+
+#: ../drone/widgets.php:657
+msgid "Tweets receiving interval."
+msgstr "Częstotliwość pobierania tweetów."
+
+#: ../drone/widgets.php:658
+msgid "Include retweets"
+msgstr "Pokazuj retweety"
+
+#: ../drone/widgets.php:659
+msgid "Exclude replies"
+msgstr "Wyklucz odpowiedzi"
+
+#: ../drone/widgets.php:661
+msgid "API key"
+msgstr "Klucz API"
+
+#: ../drone/widgets.php:662
+msgid "API secret"
+msgstr "API secret"
+
+#: ../drone/widgets.php:663
+msgid "Access token"
+msgstr "Application access token"
+
+#: ../drone/widgets.php:664
+msgid "Access token secret"
+msgstr "Application access token secret"
+
+#: ../drone/widgets.php:734 ../functions.php:149 ../inc/shortcodes.php:1354
+#: ../inc/widgets.php:101
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../drone/widgets.php:734
+msgid "Twitter stream."
+msgstr "Wpisy z serwisu Twitter."
+
+#: ../drone/widgets.php:785
+msgid "Screen name from Flickr account settings."
+msgstr "Screen name z ustawień konta Flickr."
+
+#: ../drone/widgets.php:786
+msgid "Photos count"
+msgstr "Liczba zdjęć"
+
+#: ../drone/widgets.php:787
+msgid "Photos receiving interval."
+msgstr "Częstotliwość pobierania zdjęć."
+
+#: ../drone/widgets.php:789
+msgid "Open Flickr page with the photo"
+msgstr "Otwórz stronę Flickr z tym zdjęciem"
+
+#: ../drone/widgets.php:790
+msgid "Open bigger version of the photo"
+msgstr "Otwórz zdjęcie w większym rozmiarze."
+
+#: ../drone/widgets.php:792
+msgid "API Key"
+msgstr "Klucz API"
+
+#: ../drone/widgets.php:792
+msgid "Optional (use only if you want to use your key)."
+msgstr "Opcjonalny (wpisz tylko, jeśli chcesz użyć własnego klucza)."
+
+#: ../drone/widgets.php:860
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../drone/widgets.php:860
+msgid "Flickr photo stream."
+msgstr "Obrazki z serwisu Flickr."
+
+#: ../drone/widgets.php:899
+msgid "Facebook page URL"
+msgstr "Adres strony na Facebooku"
+
+#: ../drone/widgets.php:899
+#, php-format
+msgid "E.g. %s"
+msgstr "Np. %s"
+
+#: ../drone/widgets.php:900
+msgid "Height"
+msgstr "Wysokość"
+
+#: ../drone/widgets.php:901
+msgid "Show header"
+msgstr "Pokazuj nagłówek"
+
+#: ../drone/widgets.php:902
+msgid "Show stream"
+msgstr "Pokazuj strumień"
+
+#: ../drone/widgets.php:903
+msgid "Show faces"
+msgstr "Pokazuj osoby"
+
+#: ../drone/widgets.php:904
+msgid "Show border"
+msgstr "Pokazuj ramkę"
+
+#: ../drone/widgets.php:941
+msgid "Facebook Like Box"
+msgstr "Facebook Like Box"
+
+#: ../drone/widgets.php:941
+msgid "Configurable Facebook widget."
+msgstr "Widget Facebooka."
+
+#: ../functions.php:92 ../functions.php:118 ../functions.php:146
+#: ../inc/options-setup.php:92 ../inc/options-setup.php:142
+#: ../inc/options-setup.php:143 ../inc/options-setup.php:810
+msgid "Visible"
+msgstr "Wyświetlaj"
+
+#: ../functions.php:94 ../functions.php:120
+msgid "Date &amp time"
+msgstr "Data i godzina"
+
+#: ../functions.php:96 ../functions.php:122
+msgid "Modification date"
+msgstr "Data modyfikacji"
+
+#: ../functions.php:97 ../functions.php:123
+msgid "Relative time"
+msgstr "Czas względny"
+
+#: ../functions.php:98 ../functions.php:124
+msgid "Comments number"
+msgstr "Liczba komentarzy"
+
+#: ../functions.php:99 ../functions.php:127 ../inc/shortcodes.php:896
+#: ../inc/shortcodes.php:1279
+msgid "Author"
+msgstr "Autor"
+
+#: ../functions.php:100 ../functions.php:128 ../functions.php:2615
+msgid "Permalink"
+msgstr "Bezpośredni link"
+
+#: ../functions.php:125 ../functions.php:374 ../inc/options-setup.php:742
+#: ../inc/options-setup.php:813 ../inc/widgets.php:185
+msgid "Categories"
+msgstr "Kategorie"
+
+#: ../functions.php:126 ../functions.php:379 ../inc/options-setup.php:743
+#: ../inc/options-setup.php:814 ../inc/widgets.php:186
+msgid "Tags"
+msgstr "Tagi"
+
+#: ../functions.php:148 ../inc/shortcodes.php:1353 ../inc/widgets.php:100
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../functions.php:150 ../inc/shortcodes.php:1355 ../inc/widgets.php:102
+msgid "Google+"
+msgstr "Google+"
+
+#: ../functions.php:151 ../inc/shortcodes.php:1356 ../inc/widgets.php:103
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: ../functions.php:152 ../inc/shortcodes.php:1357 ../inc/widgets.php:104
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../functions.php:206
+msgid "Main menu (desktop)"
+msgstr "Menu główne (w wersji desktopowej)"
+
+#: ../functions.php:207
+msgid "Main menu (mobile)"
+msgstr "Menu główne (na urządzeniach mobilnych)"
+
+#: ../functions.php:208
+msgid "Additional menu (mobile)"
+msgstr "Menu dodatkowe (w wersji mobilnej)"
+
+#: ../functions.php:209
+msgid "Top bar menu (desktop)"
+msgstr "Menu górne (w wersji desktopowej)"
+
+#: ../functions.php:210
+msgid "Top bar menu (mobile)"
+msgstr "Menu górne (w wersji mobilnej)"
+
+#: ../functions.php:211 ../inc/options-setup.php:142
+msgid "Upper secondary menu"
+msgstr "Górne drugie menu"
+
+#: ../functions.php:212 ../inc/options-setup.php:143
+msgid "Lower secondary menu"
+msgstr "Dolne drugie menu"
+
+#: ../functions.php:325 ../functions.php:326 ../functions.php:332
+#: ../functions.php:343 ../inc/options-setup.php:705
+msgid "Galleries"
+msgstr "Galerie"
+
+#: ../functions.php:333 ../inc/shortcodes.php:1623
+msgid "Gallery"
+msgstr "Galeria"
+
+#: ../functions.php:334
+msgctxt "Gallery"
+msgid "Add New"
+msgstr "Dodaj nową"
+
+#: ../functions.php:335
+msgid "All Galleries"
+msgstr "Wszystkie galerie"
+
+#: ../functions.php:336
+msgid "Add New Gallery"
+msgstr "Dodaj nową galerię"
+
+#: ../functions.php:337
+msgid "Edit Gallery"
+msgstr "Edytuj galerię"
+
+#: ../functions.php:338
+msgid "New Gallery"
+msgstr "Nowa galeria"
+
+#: ../functions.php:339
+msgid "View Gallery"
+msgstr "Zobacz galerię"
+
+#: ../functions.php:340
+msgid "Search Galleries"
+msgstr "Szukaj galerii"
+
+#: ../functions.php:341
+msgid "No Galleries found"
+msgstr "Nie znaleziono galerii"
+
+#: ../functions.php:342
+msgid "No Galleries found in Trash"
+msgstr "Nie znaleziono galerii w koszu"
+
+#: ../functions.php:349 ../functions.php:350 ../functions.php:359
+#: ../functions.php:370 ../inc/options-setup.php:724
+msgid "Portfolios"
+msgstr "Portfolia"
+
+#: ../functions.php:360 ../inc/shortcodes.php:2042 ../inc/widgets.php:309
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../functions.php:361
+msgctxt "Portfolio"
+msgid "Add New"
+msgstr "Dodaj nowe"
+
+#: ../functions.php:362
+msgid "All Portfolios"
+msgstr "Wszystkie portfolia"
+
+#: ../functions.php:363
+msgid "Add New Portfolio"
+msgstr "Dodaj nowe portfolio"
+
+#: ../functions.php:364
+msgid "Edit Portfolio"
+msgstr "Edytuj portfolio"
+
+#: ../functions.php:365
+msgid "New Portfolio"
+msgstr "Nowe portfolio"
+
+#: ../functions.php:366
+msgid "View Portfolio"
+msgstr "Zobacz portfolio"
+
+#: ../functions.php:367
+msgid "Search Portfolios"
+msgstr "Szukaj portfoliów"
+
+#: ../functions.php:368
+msgid "No Portfolios found"
+msgstr "Nie znaleziono portfoliów"
+
+#: ../functions.php:369
+msgid "No Portfolios found in Trash"
+msgstr "Nie znaleziono portfoliów w koszu"
+
+#: ../functions.php:428
+#, php-format
+msgid "Footer column %d"
+msgstr "%d kolumna w stopce"
+
+#: ../functions.php:430
+#, php-format
+msgid "(%1$s) Footer column %2$d"
+msgstr "%2$d kolumna w stopce (%1$s)"
+
+#: ../functions.php:639
+msgid "all"
+msgstr "wszystkie"
+
+#: ../functions.php:1016 ../inc/options-setup.php:55
+#: ../inc/options-setup.php:340
+msgid "Logo"
+msgstr "Logo"
+
+#: ../functions.php:1017
+msgid "Site width"
+msgstr "Szerokość witryny"
+
+#: ../functions.php:1110
+msgid "Search site"
+msgstr "Szukaj na stronie"
+
+#: ../functions.php:1265
+msgid "not published"
+msgstr "nie publikowany"
+
+#: ../functions.php:1273
+msgid "Leave a comment"
+msgstr "Dodaj komentarz"
+
+#: ../functions.php:1274
+#, php-format
+msgid "Leave a reply to %s"
+msgstr "Odpowiedz na  %s"
+
+#: ../functions.php:1275
+msgid "Cancel reply"
+msgstr "Anuluj pisanie odpowiedzi"
+
+#: ../functions.php:1276
+msgid "Send &rsaquo;"
+msgstr "Wyślij &raquo;"
+
+#: ../functions.php:1791 ../functions.php:1873
+msgid "Orientation"
+msgstr "Kierunek"
+
+#: ../functions.php:1792 ../functions.php:1874 ../inc/shortcodes.php:116
+msgid "Vertical"
+msgstr "Pionowo"
+
+#: ../functions.php:1793 ../functions.php:1876
+msgid "Scrollable"
+msgstr "Przewijalne"
+
+#: ../functions.php:1795
+msgid "Show thumbnail"
+msgstr "Pokaż ikonę wpisu"
+
+#: ../functions.php:1796
+msgid "Show date"
+msgstr "Pokazuj datę"
+
+#: ../functions.php:1875 ../inc/shortcodes.php:115
+msgid "Horizontal"
+msgstr "Poziomo"
+
+#: ../functions.php:1878
+msgid "Add \"follow me\" button"
+msgstr "Dodaj przycisk \"follow me\" "
+
+#: ../functions.php:1910
+msgid "follow me"
+msgstr "\"Obserwuj mnie\" "
+
+#: ../functions.php:2344
+msgid "Previous page"
+msgstr "Poprzednia strona"
+
+#: ../functions.php:2345
+msgid "Next page"
+msgstr "Następna strona"
+
+#: ../functions.php:2577 ../functions.php:2582
+#, php-format
+msgid "View all posts from %s"
+msgstr "Zobacz wszystkie posty autora %s"
+
+#: ../header.php:92 ../header.php:119 ../inc/options-setup.php:98
+msgid "Menu"
+msgstr "Menu"
+
+#: ../inc/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr "Zainstaluj wymagane wtyczki"
+
+#: ../inc/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr "Zainstaluj wtyczki"
+
+#: ../inc/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalowana wtyczka: %s"
+
+#: ../inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr "Coś poszło nie tak."
+
+#: ../inc/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr "Powrót do Instalatora wymaganych wtyczek."
+
+#: ../inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr "Wróć do kokpitu"
+
+#: ../inc/class-tgm-plugin-activation.php:177
+#: ../inc/class-tgm-plugin-activation.php:1939
+msgid "Plugin activated successfully."
+msgstr "Wtyczka zaktualizowana pomyślnie."
+
+#: ../inc/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr "Następująca wtyczka została włączona pomyślnie:"
+
+#: ../inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Wszystkie wtyczki zainstalowano i włączono pomyślnie. %1$s"
+
+#: ../inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr "Schowaj tę wiadomość"
+
+#: ../inc/class-tgm-plugin-activation.php:531
+#: ../inc/class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr "Wróć do kokpitu"
+
+#: ../inc/class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr "Repozytorium prywatne"
+
+#: ../inc/class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr "Załączone"
+
+#: ../inc/class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr "Repozytorium WordPressa"
+
+#: ../inc/class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr "Wymagane"
+
+#: ../inc/class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr "Zalecane"
+
+#: ../inc/class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr "Nie zainstalowano"
+
+#: ../inc/class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr "Zainstalowano, ale nie włączono"
+
+#: ../inc/class-tgm-plugin-activation.php:1287
+#: ../inc/class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr "Zainstaluj"
+
+#: ../inc/class-tgm-plugin-activation.php:1309
+#: ../inc/class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr "Włącz"
+
+#: ../inc/class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Brak wtyczek do zainstalowania lub włączenia. <a href=\"%1$s\" title="
+"\"Powrót do kokpitu\">Powrót do kokpitu</a>"
+
+#: ../inc/class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr "Wtyczka"
+
+#: ../inc/class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr "Źródło"
+
+#: ../inc/class-tgm-plugin-activation.php:1376 ../inc/shortcodes.php:443
+#: ../inc/shortcodes.php:1549
+msgid "Type"
+msgstr "Typ"
+
+#: ../inc/class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr "Status"
+
+#: ../inc/class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr "Pakiet instalacyjny jest niedostpępny."
+
+#: ../inc/class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+"Pobieranie pakietu instalacyjnego z <span class=\"code\">%s</span>&#8230;"
+
+#: ../inc/class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr "Rozpakowywanie &#8230;"
+
+#: ../inc/class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr "Instalowanie wtyczki&#8230;"
+
+#: ../inc/class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr "Nie zainstalowano wtyczki."
+
+#: ../inc/class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr "Wtyczka zainstalowana poprawnie."
+
+#: ../inc/class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr "Nie włączono wtyczki."
+
+#: ../inc/class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Rozpoczyna się proces instalacji i aktywacji. Może on chwilę zająć, więc "
+"należy uzbroić się w cierpliwość."
+
+#: ../inc/class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s został poprawnie zainstalowany i włączony."
+
+#: ../inc/class-tgm-plugin-activation.php:2053
+#: ../inc/class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr "Pokaż szczegóły"
+
+#: ../inc/class-tgm-plugin-activation.php:2053
+#: ../inc/class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr "Ukruj szczegóły"
+
+#: ../inc/class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr "Wszystkie instalacje i aktywacje zostały pomyślnie ukończone."
+
+#: ../inc/class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie i włączanie wtyczki %1$s (%2$d/%3$d)"
+
+#: ../inc/class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Rozpoczęto proces instalacji. Proces ten może zająć trochę czasu na "
+"niektórych serwerach. Proszę o cierpliwość."
+
+#: ../inc/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Wystąpił bład przy instalacji %1$s: <strong>%2$s</strong>."
+
+#: ../inc/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Instalacja %1$s nie powiodła się."
+
+#: ../inc/class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s zainstalowano pomyślnie."
+
+#: ../inc/class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr "Wszystkie instalacje zostały zakończone."
+
+#: ../inc/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalowanie wtyczki %1$s (%2$d/%3$d)"
+
+#: ../inc/options-setup.php:19
+msgid "Layout type"
+msgstr "Typ układu"
+
+#: ../inc/options-setup.php:20
+msgid "Open"
+msgstr "Otwarty"
+
+#: ../inc/options-setup.php:21
+msgid "Boxed"
+msgstr "Zamknięty"
+
+#: ../inc/options-setup.php:24
+msgid "Maximum width"
+msgstr "Maksymalna szerokość"
+
+#: ../inc/options-setup.php:26
+msgid "Responsive design"
+msgstr "Responsive design"
+
+#: ../inc/options-setup.php:28
+msgid "Retina display's support"
+msgstr "Wsparcie dla Retiny"
+
+#: ../inc/options-setup.php:31
+msgid "Color scheme"
+msgstr "Schemat kolorystyczny"
+
+#: ../inc/options-setup.php:32
+msgid "Bright"
+msgstr "Jasny"
+
+#: ../inc/options-setup.php:33
+msgid "Dark"
+msgstr "Ciemny"
+
+#: ../inc/options-setup.php:36
+msgid "Leading color"
+msgstr "Kolor główny"
+
+#: ../inc/options-setup.php:38 ../inc/options-setup.php:835
+#: ../inc/options-setup.php:890 ../inc/shortcodes.php:831
+msgid "Background"
+msgstr "Tło"
+
+#: ../inc/options-setup.php:38
+msgid "Use custom background"
+msgstr "Użyj własnego tła"
+
+#: ../inc/options-setup.php:38
+#, php-format
+msgid "For open layout type, recommended settings are %1$s and %2$s."
+msgstr "Dla otwartego układu zalecane są ustawienia %1$s i %2$s."
+
+#: ../inc/options-setup.php:38
+msgid "Fit (contain)"
+msgstr "Dopasowane (zawarte)"
+
+#: ../inc/options-setup.php:45 ../inc/options-setup.php:284
+msgid "Header"
+msgstr "Nagłówek"
+
+#: ../inc/options-setup.php:47 ../inc/shortcodes.php:101
+#: ../inc/shortcodes.php:1622 ../inc/shortcodes.php:2084
+msgid "Style"
+msgstr "Styl"
+
+#: ../inc/options-setup.php:49
+msgid "Centered"
+msgstr "Wycentruj"
+
+#: ../inc/options-setup.php:50 ../inc/options-setup.php:110
+msgid "Sticky"
+msgstr "Przyklejony"
+
+#: ../inc/options-setup.php:51
+msgid "Transparent"
+msgstr "Przezroczysty"
+
+#: ../inc/options-setup.php:53 ../inc/shortcodes.php:833
+msgid "Opacity"
+msgstr "Wypełnienie"
+
+#: ../inc/options-setup.php:57
+msgid "Shrunken"
+msgstr "Pomniejszaj"
+
+#: ../inc/options-setup.php:59 ../inc/options-setup.php:289
+msgid "Main menu"
+msgstr "Menu główne"
+
+#: ../inc/options-setup.php:60 ../inc/options-setup.php:67
+msgid "Show on"
+msgstr "Pokaż na"
+
+#: ../inc/options-setup.php:61 ../inc/options-setup.php:68
+msgid "Desktop devices"
+msgstr "Desktopach"
+
+#: ../inc/options-setup.php:62 ../inc/options-setup.php:69
+msgid "Mobile devices"
+msgstr "Urządzeniach mobilnych"
+
+#: ../inc/options-setup.php:65 ../inc/options-setup.php:97
+#: ../inc/options-setup.php:826
+msgid "Cart icon"
+msgstr "Ikona koszyka"
+
+#: ../inc/options-setup.php:72
+msgid "Number of products"
+msgstr "Liczba produktów"
+
+#: ../inc/options-setup.php:73
+msgid "Price of products"
+msgstr "Cena produktów"
+
+#: ../inc/options-setup.php:76 ../inc/options-setup.php:279
+#: ../inc/options-setup.php:334
+msgid "Top bar"
+msgstr "Górny pasek"
+
+#: ../inc/options-setup.php:77
+#, php-format
+msgid ""
+"The <a href=\"%s\">WooCommerce plugin</a> is required for shop features.<br /"
+">"
+msgstr "Dla opcji sklepu niezbędny jest <a href=\"%s\">WooCommerce plugin</a>."
+
+#: ../inc/options-setup.php:78
+#, php-format
+msgid "For multi-language site, a <a href=\"%s\">WPML plugin</a> is required."
+msgstr ""
+"Dla wielojęzykowej strony wymagana jest <a href=\"%s\">wtyczka WPML</a>."
+
+#: ../inc/options-setup.php:90
+msgid "On desktop devices"
+msgstr "Na desktopach"
+
+#: ../inc/options-setup.php:90
+msgid "On mobile devices"
+msgstr "Na urządzeniach mobilnych"
+
+#: ../inc/options-setup.php:94 ../inc/options-setup.php:114
+msgid "Tagline"
+msgstr "Slogan"
+
+#: ../inc/options-setup.php:95
+msgid "left side"
+msgstr "lewa strona"
+
+#: ../inc/options-setup.php:95
+msgid "right side"
+msgstr "prawa strona"
+
+#: ../inc/options-setup.php:96 ../inc/shortcodes.php:1482
+msgid "Search form"
+msgstr "Formularz wyszukiwania"
+
+#: ../inc/options-setup.php:99
+msgid "Language menu"
+msgstr "Menu językowe"
+
+#: ../inc/options-setup.php:111
+msgid "Show mobile main menu button in top bar"
+msgstr "Pokaż przycisk głównego menu w wersji mobilnej na górnym pasku"
+
+#: ../inc/options-setup.php:115 ../inc/options-setup.php:279
+#: ../inc/options-setup.php:284 ../inc/options-setup.php:289
+#: ../inc/options-setup.php:294 ../inc/options-setup.php:299
+#: ../inc/options-setup.php:304 ../inc/options-setup.php:309
+#: ../inc/options-setup.php:320 ../inc/options-setup.php:327
+#: ../inc/options-setup.php:334 ../inc/options-setup.php:340
+#: ../inc/options-setup.php:348 ../inc/options-setup.php:354
+#: ../inc/options-setup.php:362 ../inc/options-setup.php:368
+#: ../inc/options-setup.php:376 ../inc/options-setup.php:382
+#: ../inc/options-setup.php:390 ../inc/options-setup.php:396
+#: ../inc/options-setup.php:404 ../inc/options-setup.php:410
+#: ../inc/options-setup.php:416 ../inc/options-setup.php:422
+#: ../inc/options-setup.php:428 ../inc/options-setup.php:434
+#: ../inc/options-setup.php:442 ../inc/options-setup.php:448
+#: ../inc/options-setup.php:454 ../inc/options-setup.php:460
+#: ../inc/options-setup.php:468 ../inc/options-setup.php:474
+#: ../inc/options-setup.php:480 ../inc/options-setup.php:486
+#: ../inc/options-setup.php:493 ../inc/options-setup.php:497
+#: ../inc/options-setup.php:834 ../inc/options-setup.php:840
+#: ../inc/options-setup.php:890 ../inc/options-setup.php:892
+#: ../inc/options-setup.php:895 ../inc/options-setup.php:901
+#: ../inc/options-setup.php:908 ../inc/options-setup.php:915
+#: ../inc/options-setup.php:919 ../inc/options-setup.php:923
+#: ../inc/options-setup.php:927 ../inc/options-setup.php:931
+msgid "Custom"
+msgstr "Własny"
+
+#: ../inc/options-setup.php:119
+msgid "Alternative for mobile devices"
+msgstr "Alternatywny na urządzeniach mobilnych"
+
+#: ../inc/options-setup.php:125 ../inc/options-setup.php:892
+msgid "Banner"
+msgstr "Baner"
+
+#: ../inc/options-setup.php:139 ../inc/options-setup.php:154
+#: ../inc/options-setup.php:258 ../inc/options-setup.php:344
+msgid "Navigation"
+msgstr "Nawigacja"
+
+#: ../inc/options-setup.php:146 ../inc/options-setup.php:908
+msgid "Headline"
+msgstr "Nagłówek"
+
+#: ../inc/options-setup.php:147 ../inc/options-setup.php:897
+#: ../inc/options-setup.php:903 ../inc/options-setup.php:909
+#: ../inc/options-setup.php:921 ../inc/options-setup.php:925
+#: ../inc/options-setup.php:929 ../inc/options-setup.php:933
+msgid "Hide"
+msgstr "Ukryj"
+
+#: ../inc/options-setup.php:148 ../inc/options-setup.php:910
+msgid "None (title only)"
+msgstr "Pusty (tylko tytuł)"
+
+#: ../inc/options-setup.php:149 ../inc/options-setup.php:368
+#: ../inc/options-setup.php:770 ../inc/options-setup.php:778
+#: ../inc/options-setup.php:911
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: ../inc/options-setup.php:150
+msgid "Navigation (if possible) or breadcrumbs"
+msgstr "Przyciski nawigacyjne (jeśli dostępne) lub breadcrumbs"
+
+#: ../inc/options-setup.php:151
+msgid "Only navigation (if possible)"
+msgstr "Tylko przyciski nawigacyjne (jeśli dostępne)"
+
+#: ../inc/options-setup.php:154
+msgid "Next &amp; Previous buttons navigate in current category only"
+msgstr ""
+"Przyciski Poprzedni i Następny operują tylko wewnątrz aktualnej kategorii"
+
+#: ../inc/options-setup.php:159
+msgid "Sidebars"
+msgstr "Panele boczne"
+
+#: ../inc/options-setup.php:161
+msgid "Available sidebars"
+msgstr "Dostępne panele boczne"
+
+#: ../inc/options-setup.php:161
+#, php-format
+msgid "Notice: sidebars on the left side of content are always %dpx wide."
+msgstr "Uwaga: panele boczne po lewej stronie mają zawsze szerokość %dpx."
+
+#: ../inc/options-setup.php:161
+msgid "Usable width is 50px smaller because of paddings."
+msgstr "Użytkowa szerokość jest o 50px mniejsza z powodu paddingu."
+
+#: ../inc/options-setup.php:163
+msgctxt "sidebar"
+msgid "Primary"
+msgstr "Główny"
+
+#: ../inc/options-setup.php:164
+msgctxt "sidebar"
+msgid "Secondary"
+msgstr "Drugi"
+
+#: ../inc/options-setup.php:165
+msgid "New sidebar"
+msgstr "Nowy panel boczny"
+
+#: ../inc/options-setup.php:170
+msgid "(None)"
+msgstr "(Brak)"
+
+#: ../inc/options-setup.php:175 ../inc/options-setup.php:183
+#: ../inc/options-setup.php:888 ../inc/shortcodes.php:1861
+#: ../inc/widgets.php:149
+msgid "Layout"
+msgstr "Układ"
+
+#: ../inc/options-setup.php:180 ../inc/options-setup.php:304
+msgid "Footer"
+msgstr "Stopka"
+
+#: ../inc/options-setup.php:183
+msgid "You can specify footer content in Appearance / Widgets."
+msgstr "Wygląd stopki można ustawić w Wygląd / Widgety."
+
+#: ../inc/options-setup.php:184
+msgid "Full width"
+msgstr "Pełna szerokość"
+
+#: ../inc/options-setup.php:185 ../inc/options-setup.php:198
+#: ../inc/shortcodes.php:1864 ../inc/widgets.php:152
+msgid "Two columns"
+msgstr "Dwie kolumny"
+
+#: ../inc/options-setup.php:186 ../inc/options-setup.php:199
+#: ../inc/shortcodes.php:1865 ../inc/widgets.php:153
+msgid "Three columns"
+msgstr "Trzy kolumny"
+
+#: ../inc/options-setup.php:187 ../inc/shortcodes.php:1866
+#: ../inc/widgets.php:154
+msgid "Four columns"
+msgstr "Cztery kolumny"
+
+#: ../inc/options-setup.php:188 ../inc/shortcodes.php:1867
+msgid "Five columns"
+msgstr "Pięć kolumn"
+
+#: ../inc/options-setup.php:189 ../inc/shortcodes.php:1868
+msgid "Six columns"
+msgstr "Sześć kolumn"
+
+#: ../inc/options-setup.php:195
+msgid "Disabled"
+msgstr "Wyłączone"
+
+#: ../inc/options-setup.php:197
+msgid "Basic"
+msgstr "Proste"
+
+#: ../inc/options-setup.php:200 ../inc/options-setup.php:464
+#: ../inc/options-setup.php:874
+msgid "Other"
+msgstr "Inne"
+
+#: ../inc/options-setup.php:203 ../inc/options-setup.php:309
+#: ../inc/options-setup.php:493
+msgid "End note"
+msgstr "Pod stopką"
+
+#: ../inc/options-setup.php:204
+msgid "Show end note"
+msgstr "Pokaż tekst pod stopką"
+
+#: ../inc/options-setup.php:205
+#, php-format
+msgid "&copy; Copyright %s"
+msgstr "&copy; Copyright %s"
+
+#: ../inc/options-setup.php:205
+#, php-format
+msgid "%1$s by <a href=\"%3$s\">%2$s</a>"
+msgstr "%1$s autorstwa <a href=\"%3$s\">%2$s</a>"
+
+#: ../inc/options-setup.php:211
+#, php-format
+msgid "powered by %s theme"
+msgstr "motyw: %s"
+
+#: ../inc/options-setup.php:221
+msgid "Site"
+msgstr "Witryna"
+
+#: ../inc/options-setup.php:223
+msgid "Blog style"
+msgstr "Styl bloga"
+
+#: ../inc/options-setup.php:225 ../inc/shortcodes.php:102
+#: ../inc/shortcodes.php:2085
+msgid "Classic"
+msgstr "Klasyczny"
+
+#: ../inc/options-setup.php:226 ../inc/options-setup.php:781
+#: ../inc/options-setup.php:820 ../inc/options-setup.php:824
+#: ../inc/shortcodes.php:1016 ../inc/shortcodes.php:1626
+#: ../inc/shortcodes.php:2086 ../inc/shortcodes.php:2088
+msgid "Columns"
+msgstr "Kolumny"
+
+#: ../inc/options-setup.php:230
+msgid "Display filter"
+msgstr "Wyświetlaj filtr"
+
+#: ../inc/options-setup.php:233 ../inc/shortcodes.php:1875
+#: ../inc/shortcodes.php:1902 ../inc/shortcodes.php:2092
+#: ../inc/widgets.php:159
+msgid "Tag"
+msgstr "Tag"
+
+#: ../inc/options-setup.php:236 ../inc/options-setup.php:247
+msgid "Images"
+msgstr "Obrazki"
+
+#: ../inc/options-setup.php:238 ../inc/shortcodes.php:127
+msgid "Border"
+msgstr "Obramowanie"
+
+#: ../inc/options-setup.php:239 ../inc/shortcodes.php:132
+#: ../inc/shortcodes.php:1904 ../inc/widgets.php:188
+msgid "Hover effect"
+msgstr "Efekt po najechaniu"
+
+#: ../inc/options-setup.php:240
+msgid "Open in FancyBox"
+msgstr "Otwórz w Fancybox"
+
+#: ../inc/options-setup.php:242
+msgid "Fit images to screen horizontally only"
+msgstr "Dopasuj obrazki do ekranu jedynie w poziomie"
+
+#: ../inc/options-setup.php:244
+msgid "Image hover effect icons"
+msgstr "Ikonka ffekt po najechaniu"
+
+#: ../inc/options-setup.php:244
+msgid "Depending on link type."
+msgstr "W zależności od typu odnośnika."
+
+#: ../inc/options-setup.php:248
+msgid "E-mail addresses"
+msgstr "Adresy email"
+
+#: ../inc/options-setup.php:249
+msgid "Links with title"
+msgstr "Odnośniki z tytułem"
+
+#: ../inc/options-setup.php:251 ../inc/options-setup.php:267
+#: ../inc/options-setup.php:783 ../inc/shortcodes.php:1890
+#: ../inc/shortcodes.php:2082
+msgid "Pagination"
+msgstr "Paginacja"
+
+#: ../inc/options-setup.php:252 ../inc/options-setup.php:257
+#: ../inc/options-setup.php:268 ../inc/options-setup.php:784
+msgid "Numbers"
+msgstr "Numery"
+
+#: ../inc/options-setup.php:253 ../inc/options-setup.php:269
+#: ../inc/options-setup.php:785
+msgid "Numbers + navigation"
+msgstr "Numery + nawigacja"
+
+#: ../inc/options-setup.php:256
+msgid "Page break pagination"
+msgstr "Paginacja wewnętrzna strony"
+
+#: ../inc/options-setup.php:261 ../inc/options-setup.php:537
+#: ../inc/options-setup.php:683 ../inc/options-setup.php:700
+#: ../inc/options-setup.php:719 ../inc/options-setup.php:762
+msgid "Comments"
+msgstr "Komentarze"
+
+#: ../inc/options-setup.php:262
+msgid ""
+"If you select absolute, you can specify one of methods in Settings / General."
+msgstr ""
+"Po wybraniu 'bezwzględnej', można wybrać jedną z metod w Ustawienia / Ogólne."
+
+#: ../inc/options-setup.php:264
+msgid "Relative"
+msgstr "Względna"
+
+#: ../inc/options-setup.php:265
+msgid "Absolute"
+msgstr "Bezwzględna"
+
+#: ../inc/options-setup.php:275
+msgid "Colors"
+msgstr "Kolory"
+
+#: ../inc/options-setup.php:289
+msgid "Affects sub-menu only."
+msgstr "Dotyczy tylko podmenu."
+
+#: ../inc/options-setup.php:294 ../inc/options-setup.php:894
+msgid "Secondary menu"
+msgstr "Drugie menu"
+
+#: ../inc/options-setup.php:315
+msgid "Fonts"
+msgstr "Fonty"
+
+#: ../inc/options-setup.php:320
+msgctxt "font"
+msgid "Main"
+msgstr "Główny"
+
+#: ../inc/options-setup.php:348
+msgctxt "navigation"
+msgid "Main"
+msgstr "Główna"
+
+#: ../inc/options-setup.php:354
+msgctxt "navigation"
+msgid "Secondary"
+msgstr "Druga"
+
+#: ../inc/options-setup.php:358
+msgid "Page headline"
+msgstr "Nagłówek strony"
+
+#: ../inc/options-setup.php:372
+msgid "Widget title"
+msgstr "Nagłówek widgetu"
+
+#: ../inc/options-setup.php:376
+msgid "In sidebar"
+msgstr "Na panelu bocznym"
+
+#: ../inc/options-setup.php:382
+msgid "In footer"
+msgstr "W stopce"
+
+#: ../inc/options-setup.php:386
+msgid "Post/page"
+msgstr "Wpis/strona"
+
+#: ../inc/options-setup.php:396 ../inc/options-setup.php:523
+#: ../inc/options-setup.php:677 ../inc/options-setup.php:694
+#: ../inc/options-setup.php:713 ../inc/options-setup.php:756
+#: ../inc/options-setup.php:809 ../inc/options-setup.php:927
+msgid "Meta"
+msgstr "Meta"
+
+#: ../inc/options-setup.php:400
+msgid "Headlines"
+msgstr "Nagłówki"
+
+#: ../inc/options-setup.php:438 ../inc/shortcodes.php:123
+msgid "Buttons"
+msgstr "Przyciski"
+
+#: ../inc/options-setup.php:442 ../inc/shortcodes.php:822
+#: ../inc/shortcodes.php:1350
+msgid "Small"
+msgstr "Mały"
+
+#: ../inc/options-setup.php:448 ../inc/shortcodes.php:823
+msgid "Normal"
+msgstr "Normalny"
+
+#: ../inc/options-setup.php:454 ../inc/shortcodes.php:824
+#: ../inc/shortcodes.php:1349
+msgid "Big"
+msgstr "Duży"
+
+#: ../inc/options-setup.php:460 ../inc/shortcodes.php:825
+msgid "Huge"
+msgstr "Wielki"
+
+#: ../inc/options-setup.php:468 ../inc/shortcodes.php:475
+msgid "Horizontal line"
+msgstr "Pozioma linia"
+
+#: ../inc/options-setup.php:474 ../inc/shortcodes.php:929
+msgid "Quote"
+msgstr "Cytat"
+
+#: ../inc/options-setup.php:480 ../inc/shortcodes.php:978
+msgid "Message box"
+msgstr "Okno komunikatu"
+
+#: ../inc/options-setup.php:486
+msgid "Code"
+msgstr "Kod"
+
+#: ../inc/options-setup.php:497
+msgid "New font"
+msgstr "Nowy font"
+
+#: ../inc/options-setup.php:502 ../inc/shortcodes.php:1835
+msgid "Posts"
+msgstr "Wpisy"
+
+#: ../inc/options-setup.php:504 ../inc/options.php:205
+msgid "Featured image"
+msgstr "Ikona wpisu"
+
+#: ../inc/options-setup.php:505 ../inc/shortcodes.php:898
+msgid "Align"
+msgstr "Wyrównanie"
+
+#: ../inc/options-setup.php:511
+msgid "Format posts icons"
+msgstr "Ikonki postów formatowych"
+
+#: ../inc/options-setup.php:511
+msgid "Hide post format icon"
+msgstr "Ukryj ikonkę wpisu formatowego"
+
+#: ../inc/options-setup.php:513 ../inc/options-setup.php:673
+#: ../inc/options-setup.php:690 ../inc/options-setup.php:709
+#: ../inc/options-setup.php:746
+msgid "Hide title in content area"
+msgstr "Ukryj tytuł strony w treści"
+
+#: ../inc/options-setup.php:515 ../inc/options-setup.php:516
+#: ../inc/options-setup.php:748 ../inc/options-setup.php:749
+msgid "Read more"
+msgstr "Czytaj dalej"
+
+#: ../inc/options-setup.php:516 ../inc/options-setup.php:749
+msgid "Phrase"
+msgstr "Fraza"
+
+#: ../inc/options-setup.php:517 ../inc/options-setup.php:750
+#: ../inc/shortcodes.php:673 ../inc/shortcodes.php:736
+#: ../inc/shortcodes.php:1233
+msgid "Icon"
+msgstr "Ikonka"
+
+#: ../inc/options-setup.php:519 ../inc/options-setup.php:752
+#: ../inc/shortcodes.php:1630 ../inc/shortcodes.php:1892
+msgid "Teaser"
+msgstr "Zajawka"
+
+#: ../inc/options-setup.php:519
+msgid "Hide content before the more tag inside post"
+msgstr "Nie pokazuj treści sprzed znacznika \"czytaj dalej\" wewnątrz postów"
+
+#: ../inc/options-setup.php:521 ../inc/options-setup.php:675
+#: ../inc/options-setup.php:692 ../inc/options-setup.php:711
+#: ../inc/options-setup.php:754 ../inc/options-setup.php:923
+msgid "Author details"
+msgstr "Informacje o autorze"
+
+#: ../inc/options-setup.php:521
+msgid "Show author details inside post"
+msgstr "Pokaż informacje o autorze we wpisie"
+
+#: ../inc/options-setup.php:524
+msgid "Before post"
+msgstr "Przed wpisem"
+
+#: ../inc/options-setup.php:526 ../inc/options-setup.php:532
+#: ../inc/options-setup.php:546 ../inc/options-setup.php:558
+#: ../inc/options-setup.php:570 ../inc/options-setup.php:582
+#: ../inc/options-setup.php:594 ../inc/options-setup.php:606
+#: ../inc/options-setup.php:622 ../inc/options-setup.php:634
+#: ../inc/options-setup.php:646 ../inc/options-setup.php:658
+msgid "On posts list"
+msgstr "Na liście wpisów"
+
+#: ../inc/options-setup.php:528 ../inc/options-setup.php:534
+#: ../inc/options-setup.php:547 ../inc/options-setup.php:559
+#: ../inc/options-setup.php:571 ../inc/options-setup.php:583
+#: ../inc/options-setup.php:595 ../inc/options-setup.php:607
+#: ../inc/options-setup.php:623 ../inc/options-setup.php:635
+#: ../inc/options-setup.php:647 ../inc/options-setup.php:659
+msgid "Inside post"
+msgstr "Wewnątrz wpisu"
+
+#: ../inc/options-setup.php:531 ../inc/options-setup.php:680
+#: ../inc/options-setup.php:697 ../inc/options-setup.php:716
+#: ../inc/options-setup.php:759 ../inc/options-setup.php:931
+#: ../inc/shortcodes.php:1454 ../inc/widgets.php:131
+msgid "Social buttons"
+msgstr "Buttony społecznościowe"
+
+#: ../inc/options-setup.php:537 ../inc/options-setup.php:683
+#: ../inc/options-setup.php:700 ../inc/options-setup.php:719
+#: ../inc/options-setup.php:762
+msgid "Allow comments"
+msgstr "Zezwalaj na komentarze"
+
+#: ../inc/options-setup.php:542
+msgid "Format posts"
+msgstr "Wpisy formatowe"
+
+#: ../inc/options-setup.php:544
+msgid "Standard post"
+msgstr "Wpis standardowy"
+
+#: ../inc/options-setup.php:545 ../inc/options-setup.php:557
+#: ../inc/options-setup.php:569 ../inc/options-setup.php:581
+#: ../inc/options-setup.php:593 ../inc/options-setup.php:605
+#: ../inc/options-setup.php:621 ../inc/options-setup.php:633
+#: ../inc/options-setup.php:645 ../inc/options-setup.php:657
+msgid "Show featured image"
+msgstr "Wyświetl ikonę wpisu"
+
+#: ../inc/options-setup.php:549 ../inc/options-setup.php:561
+#: ../inc/options-setup.php:573 ../inc/options-setup.php:585
+#: ../inc/options-setup.php:597 ../inc/options-setup.php:613
+#: ../inc/options-setup.php:625 ../inc/options-setup.php:637
+#: ../inc/options-setup.php:649 ../inc/options-setup.php:661
+msgid "Content on posts list"
+msgstr "Zawartość na liście wpisów"
+
+#: ../inc/options-setup.php:549 ../inc/options-setup.php:734
+#: ../inc/shortcodes.php:1630 ../inc/shortcodes.php:1892
+#: ../inc/widgets.php:177
+msgid "Regular content means everything before the \"Read more\" tag."
+msgstr "'Zwykła treść' oznacza wszystko przed tagiem \"Czytaj dalej\""
+
+#: ../inc/options-setup.php:550 ../inc/options-setup.php:562
+#: ../inc/options-setup.php:574 ../inc/options-setup.php:586
+#: ../inc/options-setup.php:598 ../inc/options-setup.php:614
+#: ../inc/options-setup.php:626 ../inc/options-setup.php:638
+#: ../inc/options-setup.php:650 ../inc/options-setup.php:662
+#: ../inc/options-setup.php:735 ../inc/shortcodes.php:1632
+#: ../inc/shortcodes.php:1894 ../inc/widgets.php:178
+msgid "Regular content"
+msgstr "Zwykła treść"
+
+#: ../inc/options-setup.php:551 ../inc/options-setup.php:563
+#: ../inc/options-setup.php:575 ../inc/options-setup.php:587
+#: ../inc/options-setup.php:599 ../inc/options-setup.php:615
+#: ../inc/options-setup.php:627 ../inc/options-setup.php:639
+#: ../inc/options-setup.php:651 ../inc/options-setup.php:663
+#: ../inc/options-setup.php:736 ../inc/shortcodes.php:1633
+#: ../inc/shortcodes.php:1895 ../inc/widgets.php:179
+msgid "Excerpt or regular content"
+msgstr "Wypis lub zwykła treść"
+
+#: ../inc/options-setup.php:552 ../inc/options-setup.php:564
+#: ../inc/options-setup.php:576 ../inc/options-setup.php:588
+#: ../inc/options-setup.php:600 ../inc/options-setup.php:616
+#: ../inc/options-setup.php:628 ../inc/options-setup.php:640
+#: ../inc/options-setup.php:652 ../inc/options-setup.php:664
+#: ../inc/options-setup.php:737 ../inc/shortcodes.php:1634
+#: ../inc/shortcodes.php:1896 ../inc/widgets.php:180
+msgid "Excerpt"
+msgstr "Wypis"
+
+#: ../inc/options-setup.php:556
+msgid "Aside post"
+msgstr "Notatka na marginesie"
+
+#: ../inc/options-setup.php:568
+msgid "Audio post"
+msgstr "Wpis audio"
+
+#: ../inc/options-setup.php:580
+msgid "Chat post"
+msgstr "Chat"
+
+#: ../inc/options-setup.php:592
+msgid "Gallery post"
+msgstr "Galeria zdjęć"
+
+#: ../inc/options-setup.php:604
+msgid "Image post"
+msgstr "Obrazek"
+
+#: ../inc/options-setup.php:609
+msgid "Featured image click action"
+msgstr "Akcja po kliknięciu ikony wpisu"
+
+#: ../inc/options-setup.php:609
+msgid ""
+"Click action refers to posts list only. Inside posts, clicked featured "
+"images always open in Fancybox window."
+msgstr ""
+"Akcja kliknięcia odnosi się tylko do listy wpisów. Wewnątrz wpisu kliknięcie "
+"ikony wpisu zawsze otworzy okno Fancybox."
+
+#: ../inc/options-setup.php:610
+msgid "Go to post"
+msgstr "Idź do wpisu"
+
+#: ../inc/options-setup.php:611
+msgid "Open image in Fancybox"
+msgstr "Otwórz obrazek w Fancybox"
+
+#: ../inc/options-setup.php:620
+msgid "Link post"
+msgstr "Odnośnik"
+
+#: ../inc/options-setup.php:632
+msgid "Quote post"
+msgstr "Cytat"
+
+#: ../inc/options-setup.php:644
+msgid "Status post"
+msgstr "Status"
+
+#: ../inc/options-setup.php:656
+msgid "Video post"
+msgstr "Wpis wideo"
+
+#: ../inc/options-setup.php:671
+msgid "Pages"
+msgstr "Strony"
+
+#: ../inc/options-setup.php:675 ../inc/options-setup.php:692
+#: ../inc/options-setup.php:711 ../inc/options-setup.php:754
+msgid "Show author details"
+msgstr "Pokaż informacje o autorze"
+
+#: ../inc/options-setup.php:688
+msgid "Attachment pages"
+msgstr "Strony z załącznikami"
+
+#: ../inc/options-setup.php:707 ../inc/options-setup.php:726
+msgid "Slug"
+msgstr "Uproszczona nazwa"
+
+#: ../inc/options-setup.php:707 ../inc/options-setup.php:726
+msgid "For the changes to take effect, go to Settings/Permalinks."
+msgstr "Aby zmiany odniosły efekt, wejdź do Ustawienia/Bezpośrednie odnośniki."
+
+#: ../inc/options-setup.php:728
+msgid "Archive layout"
+msgstr "Układ archiwum"
+
+#: ../inc/options-setup.php:729
+msgid "Number of items per page"
+msgstr "Liczba elementów na stronę"
+
+#: ../inc/options-setup.php:730
+msgid "Number of columns"
+msgstr "Liczba kolumn"
+
+#: ../inc/options-setup.php:731 ../inc/widgets.php:174
+msgid "Show title"
+msgstr "Pokaż tytuł"
+
+#: ../inc/options-setup.php:733 ../inc/widgets.php:176
+msgid "Show content"
+msgstr "Wyświetlaj treść"
+
+#: ../inc/options-setup.php:739 ../inc/shortcodes.php:1637
+#: ../inc/shortcodes.php:1899 ../inc/widgets.php:182
+msgid "Taxonomy"
+msgstr "Taksonomia"
+
+#: ../inc/options-setup.php:740 ../inc/widgets.php:183
+msgid "Show taxonomies"
+msgstr "Pokazuj taksonomie"
+
+#: ../inc/options-setup.php:752
+msgid "Hide content before the more tag inside portfolio page"
+msgstr ""
+"Nie pokazuj treści sprzed znacznika \"czytaj dalej\" wewnątrz stron portfolio"
+
+#: ../inc/options-setup.php:767
+msgid "bbPress"
+msgstr "bbPress"
+
+#: ../inc/options-setup.php:770
+msgid "Use bbPress breadcrumbs"
+msgstr "Uzyj breadcrumbs bbPress"
+
+#: ../inc/options-setup.php:775
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ../inc/options-setup.php:778
+msgid "Use WooCommerce breadcrumbs"
+msgstr "Użyj breadcrumbs WooCommerce"
+
+#: ../inc/options-setup.php:782
+msgid "Products per page"
+msgstr "Liczba produktów na stronę"
+
+#: ../inc/options-setup.php:787
+msgid "Images hover effect"
+msgstr "Efekt po najechaniu na obrazek"
+
+#: ../inc/options-setup.php:788 ../inc/shortcodes.php:128
+#: ../inc/shortcodes.php:133 ../inc/shortcodes.php:139
+#: ../inc/shortcodes.php:1905 ../inc/widgets.php:189
+msgid "Inherit"
+msgstr "Dziedzicz"
+
+#: ../inc/options-setup.php:791 ../inc/shortcodes.php:136
+#: ../inc/shortcodes.php:1908 ../inc/widgets.php:192
+msgid "Grayscale"
+msgstr "Skala szarości"
+
+#: ../inc/options-setup.php:792
+msgid "Second gallery image"
+msgstr "Drugi obrazek z galerii"
+
+#: ../inc/options-setup.php:795
+msgid "Product"
+msgstr "Produkt"
+
+#: ../inc/options-setup.php:796
+msgid "Image &amp; gallery width"
+msgstr "Szerokość obrazów i galerii"
+
+#: ../inc/options-setup.php:801
+msgid "Gallery thumbnails columns"
+msgstr "Liczba kolumn miniatur"
+
+#: ../inc/options-setup.php:802
+msgid "Gallery captions"
+msgstr "Podpisy w galerii"
+
+#: ../inc/options-setup.php:804
+msgid "Image title"
+msgstr "Tytuł obrazu"
+
+#: ../inc/options-setup.php:805
+msgid "Image caption"
+msgstr "Etykieta obrazu"
+
+#: ../inc/options-setup.php:806
+msgid "Image caption or title"
+msgstr "Podpis lub tytuł obrazu"
+
+#: ../inc/options-setup.php:808
+msgid "Brand"
+msgstr "Marka"
+
+#: ../inc/options-setup.php:808
+msgid "Show brand description"
+msgstr "Pokazuj opis marki"
+
+#: ../inc/options-setup.php:812
+msgid "SKU"
+msgstr "SKU"
+
+#: ../inc/options-setup.php:815
+msgid "Brands"
+msgstr "Marki"
+
+#: ../inc/options-setup.php:818
+msgid "Related products"
+msgstr "Pokrewne produkty"
+
+#: ../inc/options-setup.php:819 ../inc/options-setup.php:823
+msgid "Products"
+msgstr "Produkty"
+
+#: ../inc/options-setup.php:822
+msgid "Cross sells"
+msgstr "Produkty cross sells"
+
+#: ../inc/options-setup.php:827 ../inc/options.php:204
+msgid "Image"
+msgstr "Obrazek"
+
+#: ../inc/options-setup.php:831 ../inc/options-setup.php:836
+#: ../inc/options-setup.php:841 ../inc/shortcodes.php:496
+#: ../inc/shortcodes.php:676 ../inc/shortcodes.php:832
+#: ../inc/shortcodes.php:948 ../inc/shortcodes.php:1236
+msgid "Color"
+msgstr "Kolor"
+
+#: ../inc/options-setup.php:833
+msgid "Sale label style"
+msgstr "Styl napisu 'Sale'"
+
+#: ../inc/options-setup.php:838
+msgid "Ratings style"
+msgstr "Styl oceny (gwiazdki)"
+
+#: ../inc/options-setup.php:846
+msgid "404 page"
+msgstr "Strona 404"
+
+#: ../inc/options-setup.php:850
+msgid "Are you lost?"
+msgstr "Potrzebujesz pomocy?"
+
+#: ../inc/options-setup.php:851
+#, php-format
+msgid ""
+"This is 404 page - it seems you've encountered a dead link or missing page. "
+"You can use search form below to find what you're lookig for or go to a <a "
+"href=\"%s\">homepage</a>."
+msgstr ""
+"To jest strona błędu 404 - wygląda na to, że szukana strona nie istnieje. "
+"Możesz skorzystać z formularza wyszukiwania zamieszczonego poniżej, albo "
+"przejść na <a href=\"%s\">stronę główną</a>."
+
+#: ../inc/options-setup.php:863 ../inc/shortcodes.php:580
+#: ../inc/shortcodes.php:631 ../inc/shortcodes.php:682
+#: ../inc/shortcodes.php:744 ../inc/shortcodes.php:834
+#: ../inc/shortcodes.php:1280 ../inc/shortcodes.php:1553
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: ../inc/options-setup.php:869
+msgid ""
+"This option is not recommended since Chrome version 37 and Opera version 25 "
+"were released."
+msgstr "Ta opcja nie jest polecana od wersji 37 Chrome'a i 25 Opery."
+
+#: ../inc/options-setup.php:869
+msgid "Enhance fonts in Chrome and Opera browsers"
+msgstr "Popraw wygląd czcionek w przeglądarkach Chrome i Opera"
+
+#: ../inc/options-setup.php:895
+msgid "Upper"
+msgstr "Górne"
+
+#: ../inc/options-setup.php:896 ../inc/options-setup.php:902
+#: ../inc/options-setup.php:920 ../inc/options-setup.php:924
+#: ../inc/options-setup.php:928 ../inc/options-setup.php:932
+msgid "Show"
+msgstr "Pokaż"
+
+#: ../inc/options-setup.php:899 ../inc/options-setup.php:905
+msgid "Custom menu"
+msgstr "Własne menu"
+
+#: ../inc/options-setup.php:901
+msgid "Lower"
+msgstr "Dolne"
+
+#: ../inc/options-setup.php:912
+msgid "Navigation (if possible)"
+msgstr "Przyciski nawigacyjne (jeśli dostępne)"
+
+#: ../inc/options-setup.php:915 ../inc/options.php:485
+msgid "Sidebar"
+msgstr "Panel boczny"
+
+#: ../inc/options.php:50
+msgid "@2x"
+msgstr "@2x"
+
+#: ../inc/options.php:111
+msgid "Content opacity"
+msgstr "Wypełnienie obszaru treści"
+
+#: ../inc/options.php:123
+msgid "Add stripes"
+msgstr "Dodaj paski"
+
+#: ../inc/options.php:203
+msgid "Empty space"
+msgstr "Pusta przestrzeń"
+
+#: ../inc/options.php:206 ../inc/shortcodes.php:104 ../inc/shortcodes.php:1624
+msgid "Slider"
+msgstr "Slider"
+
+#: ../inc/options.php:207
+msgid "Map"
+msgstr "Mapa"
+
+#: ../inc/options.php:209
+msgid "Embeding code"
+msgstr "Kod osadzenia"
+
+#: ../inc/options.php:210
+msgid "Custom HTML"
+msgstr "Własny HTML"
+
+#: ../inc/options.php:294
+msgid "Embeding code from YouTube, Vimeo, Google Maps or other."
+msgstr "Kod osadzenia z YouTube, Vimeo, Google Maps lub innych."
+
+#: ../inc/shortcodes.php:103
+msgid "Bricks"
+msgstr "Cegiełki"
+
+#: ../inc/shortcodes.php:105
+msgid "Scroller"
+msgstr "Przewijarka"
+
+#: ../inc/shortcodes.php:106 ../inc/shortcodes.php:1090
+msgid "Tabs"
+msgstr "Zakładki"
+
+#: ../inc/shortcodes.php:108
+msgid "Captions"
+msgstr "Podpisy"
+
+#: ../inc/shortcodes.php:109
+msgid "Fit images"
+msgstr "Dopasuj obrazki"
+
+#: ../inc/shortcodes.php:110
+msgid "Matrix style"
+msgstr "Kafelki"
+
+#: ../inc/shortcodes.php:112
+msgid "Transition"
+msgstr "Przejście"
+
+#: ../inc/shortcodes.php:114 ../inc/shortcodes.php:579
+msgid "Fade"
+msgstr "Przenikanie"
+
+#: ../inc/shortcodes.php:118
+msgid "Speed"
+msgstr "Prędkość"
+
+#: ../inc/shortcodes.php:119
+msgid "Auto play"
+msgstr "Odtwarzaj automatycznie"
+
+#: ../inc/shortcodes.php:120
+msgid "Exposure time"
+msgstr "Czas wyświetlania"
+
+#: ../inc/shortcodes.php:121
+msgid "Arrows controls"
+msgstr "Sterowanie strzałkami"
+
+#: ../inc/shortcodes.php:122
+msgid "Dots controls"
+msgstr "Sterowanie kropkami"
+
+#: ../inc/shortcodes.php:124
+msgid "Ordered"
+msgstr "Numeracja"
+
+#: ../inc/shortcodes.php:125
+msgid "Descriptions"
+msgstr "Opisy"
+
+#: ../inc/shortcodes.php:138
+msgid "Fancybox"
+msgstr "Fancybox"
+
+#: ../inc/shortcodes.php:444
+msgid "Line"
+msgstr "Linia"
+
+#: ../inc/shortcodes.php:445
+msgid "Divider"
+msgstr "Separator"
+
+#: ../inc/shortcodes.php:448
+msgid "Extra space"
+msgstr "Dodatkowe odstępy"
+
+#: ../inc/shortcodes.php:498
+msgid "Yellow"
+msgstr "Żółty"
+
+#: ../inc/shortcodes.php:515
+msgid "Text mark"
+msgstr "Zaznaczenie tekstu"
+
+#: ../inc/shortcodes.php:547
+msgid "Dropcap"
+msgstr "Inicjał"
+
+#: ../inc/shortcodes.php:569 ../inc/widgets.php:33
+msgid "Tooltip position"
+msgstr "Kierunek dymka"
+
+#: ../inc/shortcodes.php:570 ../inc/widgets.php:34
+msgid "Northwest"
+msgstr "Prawo-dół"
+
+#: ../inc/shortcodes.php:571 ../inc/widgets.php:35
+msgid "North"
+msgstr "Dół"
+
+#: ../inc/shortcodes.php:572 ../inc/widgets.php:36
+msgid "Northeast"
+msgstr "Lewo-dół"
+
+#: ../inc/shortcodes.php:573 ../inc/widgets.php:37
+msgid "West"
+msgstr "Prawo"
+
+#: ../inc/shortcodes.php:574 ../inc/widgets.php:38
+msgid "East"
+msgstr "Lewo"
+
+#: ../inc/shortcodes.php:575 ../inc/widgets.php:39
+msgid "Southwest"
+msgstr "Prawo-góra"
+
+#: ../inc/shortcodes.php:576 ../inc/widgets.php:40
+msgid "South"
+msgstr "Góra"
+
+#: ../inc/shortcodes.php:577 ../inc/widgets.php:41
+msgid "Southeast"
+msgstr "Lewo-góra"
+
+#: ../inc/shortcodes.php:600
+msgid "Tooltip"
+msgstr "Dymek"
+
+#: ../inc/shortcodes.php:627
+msgid "No fonts defined in Theme Options / Fonts / Custom"
+msgstr "Nie zdefiniowano czcionek w Opcjach motywu / Fonty / Własne"
+
+#: ../inc/shortcodes.php:634 ../inc/shortcodes.php:684
+#: ../inc/shortcodes.php:746 ../inc/shortcodes.php:836
+msgid "CSS style"
+msgstr "Styl CSS"
+
+#: ../inc/shortcodes.php:654
+msgid "Font"
+msgstr "Font"
+
+#: ../inc/shortcodes.php:681
+msgid "If empty, default size will be used."
+msgstr "Jeśli puste, zostanie użyty domyślny rozmiar."
+
+#: ../inc/shortcodes.php:714
+msgid "Vector icon"
+msgstr "Ikonka wektorowa"
+
+#: ../inc/shortcodes.php:799
+msgid "Image icon"
+msgstr "Ikonka obrazkowa"
+
+#: ../inc/shortcodes.php:827
+msgid "Hyperlink"
+msgstr "Hiperłącze"
+
+#: ../inc/shortcodes.php:828
+msgid "Open link in new window"
+msgstr "Otwórz łącze w nowym oknie"
+
+#: ../inc/shortcodes.php:829
+msgid "Caption"
+msgstr "Podpis"
+
+#: ../inc/shortcodes.php:830
+msgid "Forecolor"
+msgstr "Kolor główny"
+
+#: ../inc/shortcodes.php:830 ../inc/shortcodes.php:832
+msgid "If empty, default color will be used."
+msgstr "Jeśli puste,  zostanie użyty domyślny kolor."
+
+#: ../inc/shortcodes.php:877
+msgid "Button"
+msgstr "Przycisk"
+
+#: ../inc/shortcodes.php:897
+msgid "Bar"
+msgstr "Pasek"
+
+#: ../inc/shortcodes.php:903 ../inc/shortcodes.php:1037
+msgid "Width"
+msgstr "Szerokość"
+
+#: ../inc/shortcodes.php:950
+msgid "Blue"
+msgstr "Niebieski"
+
+#: ../inc/shortcodes.php:951
+msgid "Green"
+msgstr "Zielony"
+
+#: ../inc/shortcodes.php:952
+msgid "Orange"
+msgstr "Pomarańczowy"
+
+#: ../inc/shortcodes.php:953
+msgid "Red"
+msgstr "Czerwony"
+
+#: ../inc/shortcodes.php:955
+msgid "Closable"
+msgstr "Zamykany"
+
+#: ../inc/shortcodes.php:956
+msgid "Don't show again after closing"
+msgstr "Nie pokazuj po zamknięciu"
+
+#: ../inc/shortcodes.php:997
+msgid "Separated"
+msgstr "Rozdzielone"
+
+#: ../inc/shortcodes.php:1037
+msgid "In fraction format."
+msgstr "W postaci ułamka."
+
+#: ../inc/shortcodes.php:1059
+msgid "Column"
+msgstr "Kolumna"
+
+#: ../inc/shortcodes.php:1112 ../inc/shortcodes.php:1192
+msgid "Active"
+msgstr "Aktywny"
+
+#: ../inc/shortcodes.php:1131
+msgid "Tab"
+msgstr "Zakładka"
+
+#: ../inc/shortcodes.php:1153
+msgid "Singular"
+msgstr "Auto-zamykanie"
+
+#: ../inc/shortcodes.php:1170
+msgid "Toggles"
+msgstr "Harmonijka"
+
+#: ../inc/shortcodes.php:1211
+msgid "Toggle"
+msgstr "Element"
+
+#: ../inc/shortcodes.php:1236
+msgid "If empty, leading color will be used."
+msgstr "Jeśli puste, zostanie użyty  kolor główny."
+
+#: ../inc/shortcodes.php:1254
+msgid "Icon list"
+msgstr "Lista z ikonami"
+
+#: ../inc/shortcodes.php:1273 ../inc/shortcodes.php:1329
+msgid "Rating"
+msgstr "Ocena"
+
+#: ../inc/shortcodes.php:1273
+msgid "In a rate/max format. For example: 4/5 or 3.5/6."
+msgstr "W formacie ocena/maksymalna ocena. Na przykład:  4/5 lub 3.5/6."
+
+#: ../inc/shortcodes.php:1352 ../inc/widgets.php:99
+msgid "Media"
+msgstr "Media"
+
+#: ../inc/shortcodes.php:1519
+msgid "Send"
+msgstr "Wyślij"
+
+#: ../inc/shortcodes.php:1550
+msgid "Desktop"
+msgstr "Desktop"
+
+#: ../inc/shortcodes.php:1551
+msgid "Mobile"
+msgstr "Mobilne"
+
+#: ../inc/shortcodes.php:1570
+msgid "Device"
+msgstr "Urządzenie"
+
+#: ../inc/shortcodes.php:1589
+msgid "Specific post/page"
+msgstr "Wpis/strona"
+
+#: ../inc/shortcodes.php:1591
+msgid "Many posts"
+msgstr "Wiele wpisów"
+
+#: ../inc/shortcodes.php:1594
+msgid "Post type"
+msgstr "Typ wpisu"
+
+#: ../inc/shortcodes.php:1603 ../inc/shortcodes.php:2063
+msgid "Only for posts."
+msgstr "Tylko dla wpisów."
+
+#: ../inc/shortcodes.php:1605 ../inc/shortcodes.php:2065
+msgid "All categories"
+msgstr "Wszystkie kategorie"
+
+#: ../inc/shortcodes.php:1614 ../inc/shortcodes.php:1883
+#: ../inc/shortcodes.php:2074 ../inc/widgets.php:167
+msgid "Custom order"
+msgstr "Własna kolejność"
+
+#: ../inc/shortcodes.php:1620 ../inc/shortcodes.php:1889
+#: ../inc/widgets.php:173
+msgid "Count"
+msgstr "Ilość"
+
+#: ../inc/shortcodes.php:1621 ../inc/shortcodes.php:2081
+msgid "Duplicates"
+msgstr "Duplikaty"
+
+#: ../inc/shortcodes.php:1621 ../inc/shortcodes.php:2081
+msgid "Exclude already displayed posts"
+msgstr "Wyklucz wpisy już wyświetlone"
+
+#: ../inc/shortcodes.php:1626 ../inc/shortcodes.php:1627
+#: ../inc/shortcodes.php:1637
+msgid "Only for gallery style."
+msgstr "Tylko dla stylu galeria."
+
+#: ../inc/shortcodes.php:1856 ../inc/widgets.php:146
+msgid "Children of"
+msgstr "Portfolia podrzędne od"
+
+#: ../inc/shortcodes.php:1856 ../inc/widgets.php:146
+msgid "Displays child portfolios of selected portfolio."
+msgstr "Wyświetla portfolia podrzędne wybranego portfolio."
+
+#: ../inc/shortcodes.php:1858
+msgid "This"
+msgstr "Aktualnego"
+
+#: ../inc/shortcodes.php:1862 ../inc/widgets.php:150
+msgid "One column"
+msgstr "Jedna kolumna"
+
+#: ../inc/shortcodes.php:1863 ../inc/widgets.php:151
+msgid "One+ column"
+msgstr "Ponad jedna kolumna"
+
+#: ../inc/shortcodes.php:1869
+msgid "Seven columns"
+msgstr "Siedem kolumn"
+
+#: ../inc/shortcodes.php:1870
+msgid "Eight columns"
+msgstr "Osiem kolumn"
+
+#: ../inc/shortcodes.php:1872 ../inc/shortcodes.php:2089
+#: ../inc/widgets.php:156
+msgid "Filter"
+msgstr "Filtr"
+
+#: ../inc/shortcodes.php:2080
+msgid "Posts per page"
+msgstr "Wpisów na stronie"
+
+#: ../inc/shortcodes.php:2083
+msgid "Sticky posts"
+msgstr "Przyklejone wpisy"
+
+#: ../inc/shortcodes.php:2083
+msgid "Ignore"
+msgstr "Ignoruj"
+
+#: ../inc/shortcodes.php:2088 ../inc/shortcodes.php:2089
+msgid "Only for columns style."
+msgstr "Tylko dla stylu kolumny."
+
+#: ../inc/shortcodes.php:2204 ../parts/headline.php:39
+msgid "Blog"
+msgstr "Blog"
+
+#: ../inc/widgets.php:31 ../inc/widgets.php:98 ../inc/widgets.php:324
+msgid "Description"
+msgstr "Opis"
+
+#: ../inc/widgets.php:32
+msgid "Icons"
+msgstr "Ikonki"
+
+#: ../inc/widgets.php:43
+msgid "Native hover colors"
+msgstr "Kolor oryginalny"
+
+#: ../inc/widgets.php:44
+msgid "Open links in new window"
+msgstr "Otwórz odnośniki w nowym oknie."
+
+#: ../inc/widgets.php:83
+msgid "Social media"
+msgstr "Media społecznościowe"
+
+#: ../inc/widgets.php:83
+msgid "Social media icons."
+msgstr "Ikonki mediów społecznościowych"
+
+#: ../inc/widgets.php:131
+msgid "Social media buttons."
+msgstr "Ikonki mediów społecznościowych"
+
+#: ../inc/widgets.php:309
+msgid "Displays Portfolio or child portfolios of a specified parent porfolio."
+msgstr "Wyświetla portfolio lub portfolia podrzędne wybranego portfolio."
+
+#: ../inc/widgets.php:343
+msgid "Displays contact form, which can be configured in Theme Options."
+msgstr ""
+"Wstawia formularz kontaktowy, który można skonfigurować w Opcjach motywu."
+
+#: ../inc/woocommerce-widgets.php:57
+msgid "Display cart icon"
+msgstr "Wyświetl ikonę koszyka"
+
+#: ../parts/headline.php:51
+#, php-format
+msgid "Search results for: %s"
+msgstr "Rezultaty wyszukiwania dla: %s"
+
+#: ../parts/headline.php:55
+#, php-format
+msgid "All posts by: %s"
+msgstr "Wszystkie posty autorstwa: %s"
+
+#: ../parts/navigation.php:28 ../parts/navigation.php:31
+msgid "previous"
+msgstr "poprzedni"
+
+#: ../parts/navigation.php:36 ../parts/navigation.php:39
+msgid "next"
+msgstr "następny"
+
+#: ../parts/no-posts.php:13
+msgid "Nothing was found. Please try again with different keywords."
+msgstr "Nic nie znaleziono. Spróbuj ponownie z inną frazą."
+
+#: ../parts/no-posts.php:18
+msgid "There's nothing here."
+msgstr "Nic tu nie ma."
+
+#~ msgid "Attachment Page"
+#~ msgstr "Strona z załącznikami"
+
+#~ msgid "Media File"
+#~ msgstr "Media File"
+
+#~ msgid "Rated %s out of 5"
+#~ msgstr "Ocena %s na 5"
+
+#~ msgid "List"
+#~ msgstr "Lista"
+
+#~ msgid "Only for gallery and slider style."
+#~ msgstr "Tylko dla stylu galeria i slider."
+
+#~ msgid ""
+#~ "Regular content means everything before the \"Read more\" tag. Only for "
+#~ "gallery and slider style."
+#~ msgstr ""
+#~ "'Zwykła treść' oznacza wszystko przed tagiem \"Czytaj dalej\". Tylko dla "
+#~ "stylu galeria i slider."
+
+#~ msgid "On front page"
+#~ msgstr "Na stronie głównej"
+
+#~ msgid "On blog / archive"
+#~ msgstr "Na blogu / archiwum"
+
+#~ msgid "Search results page"
+#~ msgstr "Strona wyników wyszukiwania"
+
+#~ msgid "Attachments"
+#~ msgstr "Załączniki"
+
+#~ msgid "%s category"
+#~ msgstr "Kategoria %s"
+
+#~ msgid "Any page"
+#~ msgstr "Dowolna strona"
+
+#~ msgid "Application consumer key"
+#~ msgstr "Application consumer key"
+
+#~ msgid "Application consumer secret"
+#~ msgstr "Application consumer secret"
+
+#~ msgid "LayerSlider"
+#~ msgstr "LayerSlider"
+
+#~ msgid "Edit link"
+#~ msgstr "Edytuj odnośnik"
+
+#~ msgid "On bbPress pages"
+#~ msgstr "Na stronach bbPress"
+
+#~ msgid "WooCommerce shop"
+#~ msgstr "Woocommerce - sklep"
+
+#~ msgid "WooCommerce cart"
+#~ msgstr "WooCommerce - koszyk"
+
+#~ msgid "WooCommerce checkout"
+#~ msgstr "WooCommerce - zamówienie"
+
+#~ msgid "WooCommerce order received"
+#~ msgstr "WooCommerce - złożone zamówienie"
+
+#~ msgid "WooCommerce account"
+#~ msgstr "WooCommerce - konto"
+
+#~ msgid "On WooCommerce product"
+#~ msgstr "Na WooCommerce - produkt"
+
+#~ msgid "On WooCommerce shop"
+#~ msgstr "Na WooCommerce - sklep"
+
+#~ msgid "On WooCommerce cart"
+#~ msgstr "Na WooCommerce - koszyk"
+
+#~ msgid "On WooCommerce checkout"
+#~ msgstr "Na WooCommerce - zamówienie"
+
+#~ msgid "On WooCommerce order received"
+#~ msgstr "Na WooCommerce - złożone zamówienie"
+
+#~ msgid "On WooCommerce account"
+#~ msgstr "Na WooCommerce - konto"
+
+#~ msgid "On WooCommerce pages"
+#~ msgstr "Na WooCommerce - strony"
+
+#~ msgid "On %s category"
+#~ msgstr "Dla kategorii %s"
+
+#~ msgid "On search results page"
+#~ msgstr "Na stronie wyników wyszukiwania"
+
+#~ msgid "On pages"
+#~ msgstr "Na stronach"
+
+#~ msgid "On attachments"
+#~ msgstr "Na stronie załącznika"
+
+#~ msgid "On galleries"
+#~ msgstr "W galeriach"
+
+#~ msgid "On portfolios"
+#~ msgstr "W portfolio"
+
+#~ msgid "On not found page (404)"
+#~ msgstr "Na stronie Nie znaleziono (404)"
+
+#~ msgid "Alpha"
+#~ msgstr "Alpha"
+
+#~ msgid "Beta"
+#~ msgstr "Beta"
+
+#~ msgid "Gamma"
+#~ msgstr "Gamma"
+
+#~ msgid "Delta"
+#~ msgstr "Delta"
+
+#~ msgid "Epsilon"
+#~ msgstr "Epsilon"
+
+#~ msgid "Zeta"
+#~ msgstr "Zeta"
+
+#~ msgid "Eta"
+#~ msgstr "Eta"
+
+#~ msgid "Theta"
+#~ msgstr "Theta"
+
+#~ msgid "Iota"
+#~ msgstr "Iota"
+
+#~ msgid "Kappa"
+#~ msgstr "Kappa"
+
+#~ msgid "Lambda"
+#~ msgstr "Lambda"
+
+#~ msgid "Mu"
+#~ msgstr "Mu"
+
+#~ msgid "Nu"
+#~ msgstr "Nu"
+
+#~ msgid "Xi"
+#~ msgstr "Xi"
+
+#~ msgid "Omicron"
+#~ msgstr "Omicron"
+
+#~ msgid "Pi"
+#~ msgstr "Pi"
+
+#~ msgid "Rho"
+#~ msgstr "Rho"
+
+#~ msgid "Sigma"
+#~ msgstr "Sigma"
+
+#~ msgid "Tau"
+#~ msgstr "Tau"
+
+#~ msgid "Upsilon"
+#~ msgstr "Upsilon"
+
+#~ msgid "Phi"
+#~ msgstr "Phi"
+
+#~ msgid "Chi"
+#~ msgstr "Chi"
+
+#~ msgid "Psi"
+#~ msgstr "Psi"
+
+#~ msgid "Omega"
+#~ msgstr "Omega"
+
+#~ msgid "Desktop primary menu"
+#~ msgstr "Główne menu w wersji desktopowej"
+
+#~ msgid "Mobile primary menu"
+#~ msgstr "Główne menu w wersji mobilnej"
+
+#~ msgid "Mark"
+#~ msgstr "Oznacz"
+
+#~ msgid "Standard"
+#~ msgstr "Zwykły"
+
+#~ msgid "Simple"
+#~ msgstr "Prosty"
+
+#~ msgid "New caption"
+#~ msgstr "Nowy podpis"
+
+#~ msgid "Start columns"
+#~ msgstr "Rozpocznij kolumny"
+
+#~ msgid "1/2 column"
+#~ msgstr "Kolumna 1/2"
+
+#~ msgid "1/3 column"
+#~ msgstr "Kolumna 1/3"
+
+#~ msgid "1/4 column"
+#~ msgstr "Kolumna 1/4"
+
+#~ msgid "Start tabs"
+#~ msgstr "Rozpocznij zakładki"
+
+#~ msgid "New tab"
+#~ msgstr "Nowa zakładka"
+
+#~ msgid "End tabs"
+#~ msgstr "Zakończ zakładki"
+
+#~ msgid "Start toggles"
+#~ msgstr "Rozpocznij harmonijkę"
+
+#~ msgid "New toggle"
+#~ msgstr "Nowy element"
+
+#~ msgid "End toggles"
+#~ msgstr "Zakończ harmonijkę"
+
+#~ msgid "External"
+#~ msgstr "Zewnętrzny"
+
+#~ msgid "Dekstop only"
+#~ msgstr "Tylko w wersji desktopowej"
+
+#~ msgid "Custom galleries"
+#~ msgstr "Galerie specjalne"
+
+#~ msgid "Super tabs"
+#~ msgstr "Supertabs"
+
+#~ msgid "Custom page"
+#~ msgstr "Strona specjalna"
+
+#~ msgid "Section"
+#~ msgstr "Sekcja"
+
+#~ msgid "Posts section"
+#~ msgstr "Sekcja z wpisami"
+
+#~ msgid "1 column"
+#~ msgstr "1 kolumna"
+
+#~ msgid "2 or 3 columns"
+#~ msgstr "2 lub 3 kolumny"
+
+#~ msgid "4+ columns"
+#~ msgstr "4+ kolumny"
+
+#~ msgid "The \"%s\" sidebar does not exist."
+#~ msgstr "Panel boczny \"%s\" nie istnieje."
+
+#~ msgid "External Link"
+#~ msgstr "Zewnętrzny odnośnik"
+
+#~ msgid "Hide top color bar"
+#~ msgstr "Ukryj górny pasek"
+
+#~ msgid ""
+#~ "This option will hide primary menu (you can use secondary menu instead)."
+#~ msgstr "Ta opcja ukryje menu główne (można w zamian użyć drugiego menu)."
+
+#~ msgid "Show primary menu on"
+#~ msgstr "Pokaż menu główne na"
+
+#~ msgid "Cart phrase"
+#~ msgstr "Tytuł koszyka"
+
+#~ msgid "Items count"
+#~ msgstr "Liczba produktów"
+
+#~ msgid "Items amount"
+#~ msgstr "Wartość produktów"
+
+#~ msgid "Show search form on"
+#~ msgstr "Pokaż formularz wyszukiwania na"
+
+#~ msgid "Short (for 2-3 languages only)"
+#~ msgstr "Małe (dla 2-3 języków)"
+
+#~ msgid "Long"
+#~ msgstr "Wieloelementowe"
+
+#~ msgid "Example: %s."
+#~ msgstr "Przykład: %s."
+
+#~ msgid "Default content"
+#~ msgstr "Domyślna zawartość"
+
+#~ msgid "Show upper secondary menu on"
+#~ msgstr "Pokaż górne drugie menu na"
+
+#~ msgid ""
+#~ "Matters only if you specify upper secondary menu in Appearance / Menus."
+#~ msgstr ""
+#~ "Ma znaczenie tylko, jeśli zdefiniujesz górne drugie menu w Wygląd / Menu."
+
+#~ msgid "Show lower secondary menu on"
+#~ msgstr "Pokaż dolne drugie menu na"
+
+#~ msgid ""
+#~ "Matters only if you specify lower secondary menu in Appearance / Menus."
+#~ msgstr ""
+#~ "Ma znaczenie tylko, jeśli zdefiniujesz dolne drugie menu w Wygląd / Menu."
+
+#~ msgid "Sidebar %s"
+#~ msgstr "Panel boczny %s"
+
+#~ msgid "Default layout"
+#~ msgstr "Układ domyślny"
+
+#~ msgid "Site bottom"
+#~ msgstr "Dół strony"
+
+#~ msgid "Sliders"
+#~ msgstr "Slidery"
+
+#~ msgid "Animation type"
+#~ msgstr "Rodzaj animacji"
+
+#~ msgid "Slide"
+#~ msgstr "Przesuwanie"
+
+#~ msgid "Sliding direction"
+#~ msgstr "Kierunek przesuwania"
+
+#~ msgid "Animation speed"
+#~ msgstr "Prędkość animacji"
+
+#~ msgid "Animate slider automatically"
+#~ msgstr "Startuj animację automatycznie"
+
+#~ msgid "Read more phrase"
+#~ msgstr "Tytuł linka"
+
+#~ msgid "Limit"
+#~ msgstr "Limit"
+
+#~ msgid "Show titles"
+#~ msgstr "Pokazuj tytuły"
+
+#~ msgid "Show excerpts"
+#~ msgstr "Pokazuj wypisy"
+
+#~ msgid "Show excerpt"
+#~ msgstr "Pokaż wypis"
+
+#~ msgid "leading"
+#~ msgstr "główny"
+
+#~ msgid "rect"
+#~ msgstr "w kwadracie"
+
+#~ msgid "circled"
+#~ msgstr "w kółku"
+
+#~ msgid "text"
+#~ msgstr "tekst"
+
+#~ msgid "filled"
+#~ msgstr "wypełnione"
+
+#~ msgid "Edit"
+#~ msgstr "Edytuj"
+
+#, fuzzy
+#~ msgid "Remove this item"
+#~ msgstr "Wyświetl koszyk w menu"
+
+#, fuzzy
+#~ msgid "Available on backorder"
+#~ msgstr "Dostępne panele boczne"
+
+#, fuzzy
+#~ msgid "Update Cart"
+#~ msgstr "Koszyk"
+
+#, fuzzy
+#~ msgid "Proceed to Checkout &rarr;"
+#~ msgstr "WooCommerce - zamówienie"
+
+#, fuzzy
+#~ msgid "Proceed to Checkout"
+#~ msgstr "WooCommerce - zamówienie"
+
+#, fuzzy
+#~ msgid "You may be interested in&hellip;"
+#~ msgstr "Potrzebujesz pomocy?"
+
+#, fuzzy
+#~ msgid "No products in the cart."
+#~ msgstr "Koszyk"
+
+#, fuzzy
+#~ msgid "View Cart"
+#~ msgstr "Koszyk"
+
+#, fuzzy
+#~ msgid "Select a country&hellip;"
+#~ msgstr "Wybierz"
+
+#, fuzzy
+#~ msgid "Select a state&hellip;"
+#~ msgstr "Wybierz"
+
+#, fuzzy
+#~ msgid "Update Totals"
+#~ msgstr "Częstotliwość pobierania"
+
+#, fuzzy
+#~ msgid "Cart Subtotal"
+#~ msgstr "Koszyk"
+
+#, fuzzy
+#~ msgid "Cart Discount"
+#~ msgstr "Koszyk"
+
+#, fuzzy
+#~ msgid "Order Discount"
+#~ msgstr "Losowo"
+
+#, fuzzy
+#~ msgid "Order Total"
+#~ msgstr "Losowo"
+
+#, fuzzy
+#~ msgid "(Includes %s)"
+#~ msgstr "wg %s"
+
+#, fuzzy
+#~ msgid " (taxes estimated for %s)"
+#~ msgstr "wg %s"
+
+#, fuzzy
+#~ msgid ""
+#~ "Note: Shipping and taxes are estimated%s and will be updated during "
+#~ "checkout based on your billing and shipping information."
+#~ msgstr "WooCommerce - zamówienie"
+
+#, fuzzy
+#~ msgid ""
+#~ "No shipping methods were found; please recalculate your shipping and "
+#~ "enter your state/county and zip/postcode to ensure there are no other "
+#~ "available methods for your location."
+#~ msgstr "Proszę podać imię."
+
+#, fuzzy
+#~ msgid ""
+#~ "Sorry, it seems that there are no available shipping methods for your "
+#~ "location (%s)."
+#~ msgstr "Dostępne panele boczne"
+
+#, fuzzy
+#~ msgid ""
+#~ "If you require assistance or wish to make alternate arrangements please "
+#~ "contact us."
+#~ msgstr "Formularz kontaktowy"
+
+#, fuzzy
+#~ msgid "You must be logged in to checkout."
+#~ msgstr "WooCommerce - zamówienie"
+
+#, fuzzy
+#~ msgid "Your order"
+#~ msgstr "Losowo"
+
+#, fuzzy
+#~ msgid "Have a coupon?"
+#~ msgstr "Wszystkie instalacje zostały zakończone."
+
+#, fuzzy
+#~ msgid "Click here to enter your code"
+#~ msgstr "Proszę podać imię."
+
+#, fuzzy
+#~ msgid "Coupon code"
+#~ msgstr "Purchase code"
+
+#, fuzzy
+#~ msgid "Click here to login"
+#~ msgstr "Nic tu nie ma."
+
+#, fuzzy
+#~ msgid ""
+#~ "If you have shopped with us before, please enter your details in the "
+#~ "boxes below. If you are a new customer please proceed to the Billing "
+#~ "&amp; Shipping section."
+#~ msgstr "Proszę podać imię."
+
+#, fuzzy
+#~ msgid "Please fill in your details above to see available payment methods."
+#~ msgstr "Proszę podać imię."
+
+#, fuzzy
+#~ msgid ""
+#~ "Sorry, it seems that there are no available payment methods for your "
+#~ "state. Please contact us if you require assistance or wish to make "
+#~ "alternate arrangements."
+#~ msgstr "Proszę podać imię."
+
+#, fuzzy
+#~ msgid ""
+#~ "Since your browser does not support JavaScript, or it is disabled, please "
+#~ "ensure you click the <em>Update Totals</em> button before placing your "
+#~ "order. You may be charged more than the amount stated above if you fail "
+#~ "to do so."
+#~ msgstr "Opcjonalny (wpisz tylko, jeśli chcesz użyć własnego klucza)."
+
+#, fuzzy
+#~ msgid "Update totals"
+#~ msgstr "Częstotliwość pobierania"
+
+#, fuzzy
+#~ msgid "Place order"
+#~ msgstr "Losowo"
+
+#, fuzzy
+#~ msgid "I have read and accept the"
+#~ msgstr "Czytaj dalej"
+
+#, fuzzy
+#~ msgid "terms &amp; conditions"
+#~ msgstr "Data i godzina"
+
+#, fuzzy
+#~ msgid "No products found which match your selection."
+#~ msgstr "Liczba produktów na stronę"
+
+#, fuzzy
+#~ msgid "My Addresses"
+#~ msgstr "Adresy email"
+
+#, fuzzy
+#~ msgid "Billing Address"
+#~ msgstr "Błędny adres e-mail."
+
+#, fuzzy
+#~ msgid "Shipping Address"
+#~ msgstr "Błędny adres e-mail."
+
+#, fuzzy
+#~ msgid "My Address"
+#~ msgstr "Błędny adres e-mail."
+
+#, fuzzy
+#~ msgid ""
+#~ "The following addresses will be used on the checkout page by default."
+#~ msgstr "Domyślny"
+
+#, fuzzy
+#~ msgid "You have not set up this type of address yet."
+#~ msgstr "Typ"
+
+#, fuzzy
+#~ msgid "Cancel"
+#~ msgstr "Anuluj pisanie odpowiedzi"
+
+#, fuzzy
+#~ msgid "View"
+#~ msgstr "Zobacz galerię"
+
+#, fuzzy
+#~ msgid "Order Details"
+#~ msgstr "Informacje o autorze"
+
+#, fuzzy
+#~ msgid "Download file%s"
+#~ msgstr "plik"
+
+#, fuzzy
+#~ msgid "Order Again"
+#~ msgstr "Losowo"
+
+#, fuzzy
+#~ msgid "Customer details"
+#~ msgstr "Informacje o autorze"
+
+#, fuzzy
+#~ msgid "Email:"
+#~ msgstr "Błędny adres e-mail."
+
+#, fuzzy
+#~ msgid "Username or email"
+#~ msgstr "Nazwa użytkownika"
+
+#, fuzzy
+#~ msgid "Lost Password?"
+#~ msgstr "Potrzebujesz pomocy?"
+
+#, fuzzy
+#~ msgid "Add a review"
+#~ msgstr "Dodaj nową"
+
+#, fuzzy
+#~ msgid "Your Review"
+#~ msgstr "Twój komentarz oczekuje na moderację."
+
+#, fuzzy
+#~ msgid "SKU:"
+#~ msgstr "SKU"
+
+#, fuzzy
+#~ msgid "You may also like&hellip;"
+#~ msgstr "Potrzebujesz pomocy?"
+
+#~ msgid "Display search form on header"
+#~ msgstr "Wyświetl pole wyszukiwania w nagłówku"
+
+#~ msgid "Daily archives: %s"
+#~ msgstr "Archiwum dla dnia: %s"
+
+#~ msgid "Monthly archives: %s"
+#~ msgstr "Archiwum dla miesiąca: %s"
+
+#~ msgid "Yearly archives: %s"
+#~ msgstr "Archiwum dla roku: %s"
+
+#~ msgid "Category archives: %s"
+#~ msgstr "Archiwum dla kategorii: %s"
+
+#~ msgid "Tag archives: %s"
+#~ msgstr "Archiwum dla tagu: %s"
+
+#~ msgid "Portfolio category archives: %s"
+#~ msgstr "Archiwum dla kategorii portfolio: %s"
+
+#~ msgid "Portfolio tag archives: %s"
+#~ msgstr "Archiwum dla tagu portfolio: %s"
+
+#~ msgid "Post"
+#~ msgstr "Wpis"
+
+#~ msgid "or"
+#~ msgstr "lub"
+
+#~ msgid "hide this message"
+#~ msgstr "ukryj tę wiadomość"
+
+#~ msgid ""
+#~ "If excerpt does not exist for a post, regular content will be used "
+#~ "instead."
+#~ msgstr "Jeśli wpis nie ma wypisu, zostanie użyta zwykła treść."
